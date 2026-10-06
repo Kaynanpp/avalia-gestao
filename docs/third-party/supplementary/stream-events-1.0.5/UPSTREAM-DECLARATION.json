@@ -1,0 +1,13 @@
+{
+  "scope": "Original upstream public fields; no inferred copyright owner or year",
+  "name": "stream-events",
+  "version": "1.0.5",
+  "license": "MIT",
+  "author": "Stephen Sawchuk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenplusplus/stream-events"
+  },
+  "integrity": "sha512-E1GUzBSgvct8Jsb3v2X15pjzN1tYebtbLaMg+eBOUOAxgbLoSbT2NS91ckc5lJD1KfLjId+jXJRgo0qnV5Nerg==",
+  "standardLicenseReference": "../../MIT-standard-reference.txt"
+}

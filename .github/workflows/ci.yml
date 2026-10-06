@@ -1,0 +1,71 @@
+name: Verificação
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      NEXT_TELEMETRY_DISABLED: "1"
+      NEXT_PUBLIC_USE_FIREBASE_EMULATOR: "true"
+      NEXT_PUBLIC_FIREBASE_API_KEY: "demo-api-key"
+      NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN: "localhost"
+      NEXT_PUBLIC_FIREBASE_PROJECT_ID: "demo-avalia-gestao-ci"
+      NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET: "demo-avalia-gestao-ci.appspot.com"
+      NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID: "000000000000"
+      NEXT_PUBLIC_FIREBASE_APP_ID: "1:000000000000:web:0000000000000000000000"
+      FIREBASE_ADMIN_PROJECT_ID: "demo-avalia-gestao-ci"
+      PARTICIPATION_SECRET: "ci-only-participation-secret-with-32-characters"
+
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 0
+
+      - name: Preparar Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Instalar dependências
+        run: npm ci --ignore-scripts
+
+      - name: Auditar dependências de produção
+        run: npm audit --omit=dev --audit-level=high
+
+      - name: Verificar código
+        run: npm run lint
+
+      - name: Verificar tipos
+        run: npm run typecheck
+
+      - name: Executar testes
+        run: npm test
+
+      - name: Preparar Java para Firestore Emulator
+        uses: actions/setup-java@cf277c60eb25467037889841efdb72551f06f6c3 # v4
+        with:
+          distribution: temurin
+          java-version: 21
+
+      - name: Testar APIs HTTP com Auth e Firestore reais em emuladores
+        run: npx firebase emulators:exec --only auth,firestore --project demo-avalia-gestao "npm run test:integration"
+
+      - name: Inspecionar indicadores de segredos no histórico disponível
+        run: node scripts/check-git-secrets.cjs
+
+      - name: Ensaiar recuperação criptografada em emuladores novos
+        run: npx firebase emulators:exec --config firebase.recovery.json --only auth,firestore --project demo-avalia-gestao "npm run test:recovery"
+
+      # next dev in integration/recovery recreates .next; build the artifact last.
+      - name: Gerar build final de produção
+        run: npm run build

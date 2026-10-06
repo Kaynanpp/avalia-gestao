@@ -1,0 +1,22 @@
+{
+  "purpose": "Third-party notices only; no product license applied",
+  "entries": [
+    {
+      "file": "docs/third-party/GPL-3.0-only.txt",
+      "source": "https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-3.0-only.json",
+      "identifier": "GPL-3.0-only",
+      "sha256": "203c10ae2f92356d658522ee61db97e5daad634c5dc4190bc0bd23a1511a33b4"
+    },
+    {
+      "file": "docs/third-party/LGPL-3.0-only.txt",
+      "source": "https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/LGPL-3.0-only.json",
+      "identifier": "LGPL-3.0-only",
+      "sha256": "d2db3fe538e9ecb8aac723a2bc51d27dfa81aa880ad3fc20c203966ec908dc6e"
+    },
+    {
+      "file": "docs/third-party/sharp-libvips-1.3.3-NOTICES.md",
+      "source": "https://raw.githubusercontent.com/lovell/sharp-libvips/v1.3.3/THIRD-PARTY-NOTICES.md",
+      "sha256": "25ffcfa69e28b1913ced27ec778b90f24911a1bb3021253577e8b0af55db0d49"
+    }
+  ]
+}

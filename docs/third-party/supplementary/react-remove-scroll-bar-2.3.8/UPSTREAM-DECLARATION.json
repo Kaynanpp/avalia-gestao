@@ -1,0 +1,10 @@
+{
+  "scope": "Original upstream public fields; no inferred copyright owner or year",
+  "name": "react-remove-scroll-bar",
+  "version": "2.3.8",
+  "license": "MIT",
+  "author": "Anton Korzunov <thekashey@gmail.com>",
+  "repository": "https://github.com/theKashey/react-remove-scroll-bar",
+  "integrity": "sha512-9r+yi9+mgU33AKcj6IbT9oRCO78WriSj6t/cF8DWBZJ9aOGPOTEDvdUDz1FwKim7QXWwmHqtdHnRJfhAxEG46Q==",
+  "standardLicenseReference": "../../MIT-standard-reference.txt"
+}

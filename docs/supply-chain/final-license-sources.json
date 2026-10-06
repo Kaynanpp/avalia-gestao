@@ -1,0 +1,35 @@
+{
+  "scope": "Upstream notice and recipe collection; not a complete native corresponding-source bundle",
+  "records": [
+    {
+      "path": "docs/third-party/sharp-libvips-build-v1.3.3.sh",
+      "url": "https://raw.githubusercontent.com/lovell/sharp-libvips/v1.3.3/build.sh",
+      "sha256": "f32e344b1355b6bcf3836e7f25e2c2de7f25eefeb8c96d02711ad3fcea487488",
+      "bytes": 2804
+    },
+    {
+      "path": "docs/third-party/sharp-libvips-posix-v1.3.3.sh",
+      "url": "https://raw.githubusercontent.com/lovell/sharp-libvips/v1.3.3/build/posix.sh",
+      "sha256": "230a0b344ba78116c8dd230383141b1d3498fceeb8f5320c0b573ebf67a61267",
+      "bytes": 23597
+    },
+    {
+      "path": "docs/third-party/sharp-libvips-versions-v1.3.3.properties",
+      "url": "https://raw.githubusercontent.com/lovell/sharp-libvips/v1.3.3/versions.properties",
+      "sha256": "02253a2d39a6b1cfd2c1deacb0947f7d2a3398a522236f7efc4d57e82cbfe980",
+      "bytes": 595
+    },
+    {
+      "path": "docs/third-party/MPL-2.0.txt",
+      "url": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MPL-2.0.txt",
+      "sha256": "66a3107d5ad6a058aab753eaac2047ccb2ed0e39465dd0fe5844da3e300d5172",
+      "bytes": 16727
+    },
+    {
+      "path": "docs/third-party/Firebase-JS-SDK-Apache-2.0.txt",
+      "url": "https://raw.githubusercontent.com/firebase/firebase-js-sdk/9045b759b70e9d19b8cf007d69d988893d845a1e/LICENSE",
+      "sha256": "065e45b5674f9bf76670496e5472611b3fbd87fbeaf99336725430a9909cb687",
+      "bytes": 14096
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+export default function AdminLoading() {
+  return <div role="status" aria-live="polite" className="space-y-6"><span className="sr-only">Carregando informações</span><div className="space-y-2"><div className="ui-skeleton h-4 w-28" /><div className="ui-skeleton h-8 w-64 max-w-full" /><div className="ui-skeleton h-4 w-96 max-w-full" /></div><div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">{Array.from({ length: 4 }).map((_, index) => <div key={index} className="ui-loading-card"><div className="ui-skeleton h-4 w-28" /><div className="ui-skeleton h-9 w-20" /><div className="ui-skeleton h-3 w-full" /></div>)}</div><div className="ui-loading-card"><div className="ui-skeleton h-5 w-48" /><div className="ui-skeleton h-56 w-full" /></div></div>;
+}

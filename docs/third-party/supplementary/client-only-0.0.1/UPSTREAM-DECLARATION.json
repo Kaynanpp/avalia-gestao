@@ -1,0 +1,8 @@
+{
+  "scope": "Original upstream public fields; no inferred copyright owner or year",
+  "name": "client-only",
+  "version": "0.0.1",
+  "license": "MIT",
+  "integrity": "sha512-IV3Ou0jSMzZrd3pZ48nLkT9DA7Ag1pnPzaiQhpW7c3RbcqqzvzzVu+L8gfqMp/8IM2MQtSiqaCxrrcfu8I8rMA==",
+  "standardLicenseReference": "../../MIT-standard-reference.txt"
+}

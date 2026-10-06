@@ -1,0 +1,6315 @@
+{
+  "format": "avalia-license-evidence-v1",
+  "lockfileSha256": "97018a1da895d23912b90420411b78c54fd0b6590c7108f0533bc5c483e7c415",
+  "productionPackages": 487,
+  "evidence": [
+    {
+      "name": "@babel/runtime",
+      "version": "7.29.7",
+      "path": "node_modules/@babel/runtime",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76"
+        }
+      ]
+    },
+    {
+      "name": "@fast-csv/format",
+      "version": "4.3.5",
+      "path": "node_modules/@fast-csv/format",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2450088d1769a2b36e210a5a345a55b209944f4c6a9a89f7ce3aaba163680a42"
+        }
+      ]
+    },
+    {
+      "name": "@types/node",
+      "version": "14.18.63",
+      "path": "node_modules/@fast-csv/format/node_modules/@types/node",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@fast-csv/parse",
+      "version": "4.3.6",
+      "path": "node_modules/@fast-csv/parse",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2450088d1769a2b36e210a5a345a55b209944f4c6a9a89f7ce3aaba163680a42"
+        }
+      ]
+    },
+    {
+      "name": "@types/node",
+      "version": "14.18.63",
+      "path": "node_modules/@fast-csv/parse/node_modules/@types/node",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@fastify/busboy",
+      "version": "3.2.2",
+      "path": "node_modules/@fastify/busboy",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "07544f419a6479527aeb8b012e95ff51f2f9a374e901d1af9668ebd0583003ec"
+        }
+      ]
+    },
+    {
+      "name": "@firebase/ai",
+      "version": "2.16.0",
+      "path": "node_modules/@firebase/ai",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/analytics",
+      "version": "0.10.25",
+      "path": "node_modules/@firebase/analytics",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/analytics-compat",
+      "version": "0.2.31",
+      "path": "node_modules/@firebase/analytics-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/analytics-types",
+      "version": "0.8.5",
+      "path": "node_modules/@firebase/analytics-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/app",
+      "version": "0.16.2",
+      "path": "node_modules/@firebase/app",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/app-check",
+      "version": "0.13.1",
+      "path": "node_modules/@firebase/app-check",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/app-check-compat",
+      "version": "0.4.7",
+      "path": "node_modules/@firebase/app-check-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/app-check-interop-types",
+      "version": "0.3.5",
+      "path": "node_modules/@firebase/app-check-interop-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/app-check-types",
+      "version": "0.5.5",
+      "path": "node_modules/@firebase/app-check-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/app-compat",
+      "version": "0.5.18",
+      "path": "node_modules/@firebase/app-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/app-types",
+      "version": "0.9.6",
+      "path": "node_modules/@firebase/app-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/auth-compat",
+      "version": "0.6.11",
+      "path": "node_modules/@firebase/auth-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/auth",
+      "version": "1.13.6",
+      "path": "node_modules/@firebase/auth-compat/node_modules/@firebase/auth",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/auth-interop-types",
+      "version": "0.2.6",
+      "path": "node_modules/@firebase/auth-interop-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/auth-types",
+      "version": "0.13.2",
+      "path": "node_modules/@firebase/auth-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/component",
+      "version": "0.7.5",
+      "path": "node_modules/@firebase/component",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/data-connect",
+      "version": "0.7.4",
+      "path": "node_modules/@firebase/data-connect",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/database",
+      "version": "1.1.5",
+      "path": "node_modules/@firebase/database",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/database-compat",
+      "version": "2.1.7",
+      "path": "node_modules/@firebase/database-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/database-types",
+      "version": "1.0.22",
+      "path": "node_modules/@firebase/database-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/firestore",
+      "version": "4.17.2",
+      "path": "node_modules/@firebase/firestore",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/firestore-compat",
+      "version": "0.4.14",
+      "path": "node_modules/@firebase/firestore-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/firestore-types",
+      "version": "3.0.5",
+      "path": "node_modules/@firebase/firestore-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/functions",
+      "version": "0.14.0",
+      "path": "node_modules/@firebase/functions",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/functions-compat",
+      "version": "0.5.0",
+      "path": "node_modules/@firebase/functions-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/functions-types",
+      "version": "0.6.5",
+      "path": "node_modules/@firebase/functions-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/installations",
+      "version": "0.6.24",
+      "path": "node_modules/@firebase/installations",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/installations-compat",
+      "version": "0.2.24",
+      "path": "node_modules/@firebase/installations-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/installations-types",
+      "version": "0.5.5",
+      "path": "node_modules/@firebase/installations-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/logger",
+      "version": "0.5.2",
+      "path": "node_modules/@firebase/logger",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/messaging",
+      "version": "0.13.3",
+      "path": "node_modules/@firebase/messaging",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/messaging-compat",
+      "version": "0.2.30",
+      "path": "node_modules/@firebase/messaging-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/messaging-interop-types",
+      "version": "0.2.6",
+      "path": "node_modules/@firebase/messaging-interop-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/performance",
+      "version": "0.7.14",
+      "path": "node_modules/@firebase/performance",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/performance-compat",
+      "version": "0.2.27",
+      "path": "node_modules/@firebase/performance-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/performance-types",
+      "version": "0.2.5",
+      "path": "node_modules/@firebase/performance-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/remote-config",
+      "version": "0.9.2",
+      "path": "node_modules/@firebase/remote-config",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/remote-config-compat",
+      "version": "0.2.29",
+      "path": "node_modules/@firebase/remote-config-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/remote-config-types",
+      "version": "0.5.2",
+      "path": "node_modules/@firebase/remote-config-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/storage",
+      "version": "0.14.5",
+      "path": "node_modules/@firebase/storage",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/storage-compat",
+      "version": "0.4.5",
+      "path": "node_modules/@firebase/storage-compat",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/storage-types",
+      "version": "0.8.5",
+      "path": "node_modules/@firebase/storage-types",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/util",
+      "version": "1.15.3",
+      "path": "node_modules/@firebase/util",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@firebase/webchannel-wrapper",
+      "version": "1.0.7",
+      "path": "node_modules/@firebase/webchannel-wrapper",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@floating-ui/core",
+      "version": "1.8.0",
+      "path": "node_modules/@floating-ui/core",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e4c9a9b6c71019cbbea3bdc20b01223110a9035700f9c960c8fcbf78c2325ce"
+        }
+      ]
+    },
+    {
+      "name": "@floating-ui/dom",
+      "version": "1.8.0",
+      "path": "node_modules/@floating-ui/dom",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e4c9a9b6c71019cbbea3bdc20b01223110a9035700f9c960c8fcbf78c2325ce"
+        }
+      ]
+    },
+    {
+      "name": "@floating-ui/react-dom",
+      "version": "2.1.9",
+      "path": "node_modules/@floating-ui/react-dom",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e4c9a9b6c71019cbbea3bdc20b01223110a9035700f9c960c8fcbf78c2325ce"
+        }
+      ]
+    },
+    {
+      "name": "@floating-ui/utils",
+      "version": "0.2.12",
+      "path": "node_modules/@floating-ui/utils",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e4c9a9b6c71019cbbea3bdc20b01223110a9035700f9c960c8fcbf78c2325ce"
+        }
+      ]
+    },
+    {
+      "name": "@google-cloud/firestore",
+      "version": "9.2.0",
+      "path": "node_modules/@google-cloud/firestore",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "@google-cloud/firestore-api",
+      "version": "0.2.0",
+      "path": "node_modules/@google-cloud/firestore-api",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@grpc/proto-loader",
+      "version": "0.8.1",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/@grpc/proto-loader",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+        }
+      ]
+    },
+    {
+      "name": "data-uri-to-buffer",
+      "version": "4.0.1",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/data-uri-to-buffer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "gaxios",
+      "version": "7.3.1",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/gaxios",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "gcp-metadata",
+      "version": "8.1.4",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/gcp-metadata",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "gaxios",
+      "version": "7.1.3",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/gcp-metadata/node_modules/gaxios",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "google-auth-library",
+      "version": "10.5.0",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/google-auth-library",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "google-gax",
+      "version": "5.0.8",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/google-gax",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "google-logging-utils",
+      "version": "1.1.3",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/google-logging-utils",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "gtoken",
+      "version": "8.0.0",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/gtoken",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ace51ee77a0c6ebf8885e3b1de75b410f77fbc76602b063fbfd74d96f8574296"
+        }
+      ]
+    },
+    {
+      "name": "node-fetch",
+      "version": "3.3.2",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/node-fetch",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "3e2c11dcf3f17ab585baab8faba54772d7872f1c6e026022acd4b4006665efb0"
+        }
+      ]
+    },
+    {
+      "name": "proto3-json-serializer",
+      "version": "3.0.4",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/proto3-json-serializer",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "retry-request",
+      "version": "8.0.4",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/retry-request",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "e0845fe275271e0b752360e09e5774b1b05d5e1c73bbbc3d4bf8b57d8af98217"
+        }
+      ]
+    },
+    {
+      "name": "rimraf",
+      "version": "5.0.10",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/rimraf",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "d11323827fa4edeaafc437cc5b91b6971b335f0127efeeb42bf5122fe8657e8f"
+        }
+      ]
+    },
+    {
+      "name": "teeny-request",
+      "version": "10.1.4",
+      "path": "node_modules/@google-cloud/firestore-api/node_modules/teeny-request",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "@google-cloud/paginator",
+      "version": "7.1.0",
+      "path": "node_modules/@google-cloud/paginator",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "@google-cloud/projectify",
+      "version": "6.1.0",
+      "path": "node_modules/@google-cloud/projectify",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "@google-cloud/promisify",
+      "version": "6.1.0",
+      "path": "node_modules/@google-cloud/promisify",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "@google-cloud/storage",
+      "version": "8.2.0",
+      "path": "node_modules/@google-cloud/storage",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "@grpc/grpc-js",
+      "version": "1.14.5",
+      "path": "node_modules/@grpc/grpc-js",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e03ba41d7fab20700769fe4118bab50d800cb74f990353a05d2f5fff1c228363"
+        }
+      ]
+    },
+    {
+      "name": "@grpc/proto-loader",
+      "version": "0.8.1",
+      "path": "node_modules/@grpc/grpc-js/node_modules/@grpc/proto-loader",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+        }
+      ]
+    },
+    {
+      "name": "@grpc/proto-loader",
+      "version": "0.7.15",
+      "path": "node_modules/@grpc/proto-loader",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+        }
+      ]
+    },
+    {
+      "name": "@hookform/resolvers",
+      "version": "3.10.0",
+      "path": "node_modules/@hookform/resolvers",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e8eeb472f0a5889c2c51625b86a3f9b8630680adb9f49a125352e2e426392780"
+        }
+      ]
+    },
+    {
+      "name": "@img/colour",
+      "version": "1.1.0",
+      "path": "node_modules/@img/colour",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "e2eaa4603c14cb26f301e88648c12a853fa3f0f5da6d4b0972958c666e7f2ab8"
+        }
+      ]
+    },
+    {
+      "name": "@img/sharp-darwin-arm64",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-darwin-arm64",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-darwin-x64",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-darwin-x64",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-freebsd-wasm32",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-freebsd-wasm32",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-libvips-darwin-arm64",
+      "version": "1.3.3",
+      "path": "node_modules/@img/sharp-libvips-darwin-arm64",
+      "declared": "LGPL-3.0-or-later",
+      "reviewed": "LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-libvips-darwin-x64",
+      "version": "1.3.3",
+      "path": "node_modules/@img/sharp-libvips-darwin-x64",
+      "declared": "LGPL-3.0-or-later",
+      "reviewed": "LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-arm",
+      "version": "1.3.3",
+      "path": "node_modules/@img/sharp-libvips-linux-arm",
+      "declared": "LGPL-3.0-or-later",
+      "reviewed": "LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-arm64",
+      "version": "1.3.3",
+      "path": "node_modules/@img/sharp-libvips-linux-arm64",
+      "declared": "LGPL-3.0-or-later",
+      "reviewed": "LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-ppc64",
+      "version": "1.3.3",
+      "path": "node_modules/@img/sharp-libvips-linux-ppc64",
+      "declared": "LGPL-3.0-or-later",
+      "reviewed": "LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-riscv64",
+      "version": "1.3.3",
+      "path": "node_modules/@img/sharp-libvips-linux-riscv64",
+      "declared": "LGPL-3.0-or-later",
+      "reviewed": "LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-s390x",
+      "version": "1.3.3",
+      "path": "node_modules/@img/sharp-libvips-linux-s390x",
+      "declared": "LGPL-3.0-or-later",
+      "reviewed": "LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-x64",
+      "version": "1.3.3",
+      "path": "node_modules/@img/sharp-libvips-linux-x64",
+      "declared": "LGPL-3.0-or-later",
+      "reviewed": "LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-libvips-linuxmusl-arm64",
+      "version": "1.3.3",
+      "path": "node_modules/@img/sharp-libvips-linuxmusl-arm64",
+      "declared": "LGPL-3.0-or-later",
+      "reviewed": "LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-libvips-linuxmusl-x64",
+      "version": "1.3.3",
+      "path": "node_modules/@img/sharp-libvips-linuxmusl-x64",
+      "declared": "LGPL-3.0-or-later",
+      "reviewed": "LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-linux-arm",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-linux-arm",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-linux-arm64",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-linux-arm64",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-linux-ppc64",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-linux-ppc64",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-linux-riscv64",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-linux-riscv64",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-linux-s390x",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-linux-s390x",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-linux-x64",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-linux-x64",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-linuxmusl-arm64",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-linuxmusl-arm64",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-linuxmusl-x64",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-linuxmusl-x64",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-wasm32",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-wasm32",
+      "declared": "Apache-2.0 AND LGPL-3.0-or-later AND MIT",
+      "reviewed": "Apache-2.0 AND LGPL-3.0-or-later AND MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@emnapi/runtime",
+      "version": "1.11.3",
+      "path": "node_modules/@img/sharp-wasm32/node_modules/@emnapi/runtime",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-webcontainers-wasm32",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-webcontainers-wasm32",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-win32-arm64",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-win32-arm64",
+      "declared": "Apache-2.0 AND LGPL-3.0-or-later",
+      "reviewed": "Apache-2.0 AND LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-win32-ia32",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-win32-ia32",
+      "declared": "Apache-2.0 AND LGPL-3.0-or-later",
+      "reviewed": "Apache-2.0 AND LGPL-3.0-or-later",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@img/sharp-win32-x64",
+      "version": "0.35.4",
+      "path": "node_modules/@img/sharp-win32-x64",
+      "declared": "Apache-2.0 AND LGPL-3.0-or-later",
+      "reviewed": "Apache-2.0 AND LGPL-3.0-or-later",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "dc1f5d2d43c5531dfe0acaf4e950ea5dbe3e61e1850cf0e983bda7efc10d6693"
+        }
+      ]
+    },
+    {
+      "name": "@isaacs/cliui",
+      "version": "8.0.2",
+      "path": "node_modules/@isaacs/cliui",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "2dc0465729366c3a7890dfa9e972a1ba7048a26c02116fb8b419a6a1ac110149"
+        }
+      ]
+    },
+    {
+      "name": "ansi-regex",
+      "version": "6.3.0",
+      "path": "node_modules/@isaacs/cliui/node_modules/ansi-regex",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "strip-ansi",
+      "version": "7.2.0",
+      "path": "node_modules/@isaacs/cliui/node_modules/strip-ansi",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "@js-sdsl/ordered-map",
+      "version": "4.4.2",
+      "path": "node_modules/@js-sdsl/ordered-map",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "787684b2059945f845f404340e20c4c8e3f325f4ab7aaeaf8e985f38c8d84658"
+        }
+      ]
+    },
+    {
+      "name": "@next/env",
+      "version": "15.5.27",
+      "path": "node_modules/@next/env",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@next/swc-darwin-arm64",
+      "version": "15.5.27",
+      "path": "node_modules/@next/swc-darwin-arm64",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@next/swc-darwin-x64",
+      "version": "15.5.27",
+      "path": "node_modules/@next/swc-darwin-x64",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@next/swc-linux-arm64-gnu",
+      "version": "15.5.27",
+      "path": "node_modules/@next/swc-linux-arm64-gnu",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@next/swc-linux-arm64-musl",
+      "version": "15.5.27",
+      "path": "node_modules/@next/swc-linux-arm64-musl",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@next/swc-linux-x64-gnu",
+      "version": "15.5.27",
+      "path": "node_modules/@next/swc-linux-x64-gnu",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@next/swc-linux-x64-musl",
+      "version": "15.5.27",
+      "path": "node_modules/@next/swc-linux-x64-musl",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@next/swc-win32-arm64-msvc",
+      "version": "15.5.27",
+      "path": "node_modules/@next/swc-win32-arm64-msvc",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@next/swc-win32-x64-msvc",
+      "version": "15.5.27",
+      "path": "node_modules/@next/swc-win32-x64-msvc",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@nodable/entities",
+      "version": "3.0.0",
+      "path": "node_modules/@nodable/entities",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "@opentelemetry/api",
+      "version": "1.9.1",
+      "path": "node_modules/@opentelemetry/api",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+        }
+      ]
+    },
+    {
+      "name": "@pkgjs/parseargs",
+      "version": "0.11.0",
+      "path": "node_modules/@pkgjs/parseargs",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+        }
+      ]
+    },
+    {
+      "name": "@protobufjs/aspromise",
+      "version": "1.1.2",
+      "path": "node_modules/@protobufjs/aspromise",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794"
+        }
+      ]
+    },
+    {
+      "name": "@protobufjs/base64",
+      "version": "1.1.2",
+      "path": "node_modules/@protobufjs/base64",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794"
+        }
+      ]
+    },
+    {
+      "name": "@protobufjs/codegen",
+      "version": "2.0.5",
+      "path": "node_modules/@protobufjs/codegen",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794"
+        }
+      ]
+    },
+    {
+      "name": "@protobufjs/eventemitter",
+      "version": "1.1.1",
+      "path": "node_modules/@protobufjs/eventemitter",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794"
+        }
+      ]
+    },
+    {
+      "name": "@protobufjs/fetch",
+      "version": "1.1.1",
+      "path": "node_modules/@protobufjs/fetch",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794"
+        }
+      ]
+    },
+    {
+      "name": "@protobufjs/float",
+      "version": "1.0.2",
+      "path": "node_modules/@protobufjs/float",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794"
+        }
+      ]
+    },
+    {
+      "name": "@protobufjs/path",
+      "version": "1.1.2",
+      "path": "node_modules/@protobufjs/path",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794"
+        }
+      ]
+    },
+    {
+      "name": "@protobufjs/pool",
+      "version": "1.1.0",
+      "path": "node_modules/@protobufjs/pool",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794"
+        }
+      ]
+    },
+    {
+      "name": "@protobufjs/utf8",
+      "version": "1.1.2",
+      "path": "node_modules/@protobufjs/utf8",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a67b34a24a5daddcce46aea68c5004e4442bbfb63690329fa607bf4de4269794"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/number",
+      "version": "1.1.3",
+      "path": "node_modules/@radix-ui/number",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/primitive",
+      "version": "1.1.7",
+      "path": "node_modules/@radix-ui/primitive",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-alert-dialog",
+      "version": "1.1.23",
+      "path": "node_modules/@radix-ui/react-alert-dialog",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-arrow",
+      "version": "1.1.15",
+      "path": "node_modules/@radix-ui/react-arrow",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-avatar",
+      "version": "1.2.6",
+      "path": "node_modules/@radix-ui/react-avatar",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-checkbox",
+      "version": "1.3.11",
+      "path": "node_modules/@radix-ui/react-checkbox",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-collection",
+      "version": "1.1.15",
+      "path": "node_modules/@radix-ui/react-collection",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "path": "node_modules/@radix-ui/react-compose-refs",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-context",
+      "version": "1.2.2",
+      "path": "node_modules/@radix-ui/react-context",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-dialog",
+      "version": "1.1.23",
+      "path": "node_modules/@radix-ui/react-dialog",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-direction",
+      "version": "1.1.4",
+      "path": "node_modules/@radix-ui/react-direction",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-dismissable-layer",
+      "version": "1.1.19",
+      "path": "node_modules/@radix-ui/react-dismissable-layer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-dropdown-menu",
+      "version": "2.1.24",
+      "path": "node_modules/@radix-ui/react-dropdown-menu",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-focus-guards",
+      "version": "1.1.6",
+      "path": "node_modules/@radix-ui/react-focus-guards",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-focus-scope",
+      "version": "1.1.16",
+      "path": "node_modules/@radix-ui/react-focus-scope",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-id",
+      "version": "1.1.4",
+      "path": "node_modules/@radix-ui/react-id",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-label",
+      "version": "2.1.15",
+      "path": "node_modules/@radix-ui/react-label",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-menu",
+      "version": "2.1.24",
+      "path": "node_modules/@radix-ui/react-menu",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-popover",
+      "version": "1.1.23",
+      "path": "node_modules/@radix-ui/react-popover",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-popper",
+      "version": "1.3.7",
+      "path": "node_modules/@radix-ui/react-popper",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-portal",
+      "version": "1.1.17",
+      "path": "node_modules/@radix-ui/react-portal",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-presence",
+      "version": "1.1.10",
+      "path": "node_modules/@radix-ui/react-presence",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-primitive",
+      "version": "2.1.10",
+      "path": "node_modules/@radix-ui/react-primitive",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-progress",
+      "version": "1.1.16",
+      "path": "node_modules/@radix-ui/react-progress",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-radio-group",
+      "version": "1.4.7",
+      "path": "node_modules/@radix-ui/react-radio-group",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-roving-focus",
+      "version": "1.1.19",
+      "path": "node_modules/@radix-ui/react-roving-focus",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-scroll-area",
+      "version": "1.2.18",
+      "path": "node_modules/@radix-ui/react-scroll-area",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-select",
+      "version": "2.3.7",
+      "path": "node_modules/@radix-ui/react-select",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-separator",
+      "version": "1.1.15",
+      "path": "node_modules/@radix-ui/react-separator",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-slot",
+      "version": "1.3.3",
+      "path": "node_modules/@radix-ui/react-slot",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-switch",
+      "version": "1.3.7",
+      "path": "node_modules/@radix-ui/react-switch",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-tabs",
+      "version": "1.1.21",
+      "path": "node_modules/@radix-ui/react-tabs",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-toast",
+      "version": "1.2.23",
+      "path": "node_modules/@radix-ui/react-toast",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-tooltip",
+      "version": "1.2.16",
+      "path": "node_modules/@radix-ui/react-tooltip",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-callback-ref",
+      "version": "1.1.4",
+      "path": "node_modules/@radix-ui/react-use-callback-ref",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-controllable-state",
+      "version": "1.2.6",
+      "path": "node_modules/@radix-ui/react-use-controllable-state",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-effect-event",
+      "version": "0.0.5",
+      "path": "node_modules/@radix-ui/react-use-effect-event",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-is-hydrated",
+      "version": "0.1.3",
+      "path": "node_modules/@radix-ui/react-use-is-hydrated",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-layout-effect",
+      "version": "1.1.4",
+      "path": "node_modules/@radix-ui/react-use-layout-effect",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-previous",
+      "version": "1.1.4",
+      "path": "node_modules/@radix-ui/react-use-previous",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-rect",
+      "version": "1.1.4",
+      "path": "node_modules/@radix-ui/react-use-rect",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-size",
+      "version": "1.1.4",
+      "path": "node_modules/@radix-ui/react-use-size",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/react-visually-hidden",
+      "version": "1.2.11",
+      "path": "node_modules/@radix-ui/react-visually-hidden",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@radix-ui/rect",
+      "version": "1.1.3",
+      "path": "node_modules/@radix-ui/rect",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+        }
+      ]
+    },
+    {
+      "name": "@swc/helpers",
+      "version": "0.5.15",
+      "path": "node_modules/@swc/helpers",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "d96eba1f1881334d50ffc144276dfa98e147a415e7c591ecdfcb81680361dc91"
+        }
+      ]
+    },
+    {
+      "name": "@types/d3-array",
+      "version": "3.2.2",
+      "path": "node_modules/@types/d3-array",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/d3-color",
+      "version": "3.1.3",
+      "path": "node_modules/@types/d3-color",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/d3-ease",
+      "version": "3.0.2",
+      "path": "node_modules/@types/d3-ease",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/d3-interpolate",
+      "version": "3.0.4",
+      "path": "node_modules/@types/d3-interpolate",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/d3-path",
+      "version": "3.1.1",
+      "path": "node_modules/@types/d3-path",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/d3-scale",
+      "version": "4.0.9",
+      "path": "node_modules/@types/d3-scale",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/d3-shape",
+      "version": "3.2.0",
+      "path": "node_modules/@types/d3-shape",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/d3-time",
+      "version": "3.0.4",
+      "path": "node_modules/@types/d3-time",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/d3-timer",
+      "version": "3.0.2",
+      "path": "node_modules/@types/d3-timer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/jsonwebtoken",
+      "version": "9.0.10",
+      "path": "node_modules/@types/jsonwebtoken",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/ms",
+      "version": "2.1.0",
+      "path": "node_modules/@types/ms",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/node",
+      "version": "20.19.43",
+      "path": "node_modules/@types/node",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/prop-types",
+      "version": "15.7.15",
+      "path": "node_modules/@types/prop-types",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/react",
+      "version": "18.3.31",
+      "path": "node_modules/@types/react",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "@types/react-dom",
+      "version": "18.3.7",
+      "path": "node_modules/@types/react-dom",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+        }
+      ]
+    },
+    {
+      "name": "abort-controller",
+      "version": "3.0.0",
+      "path": "node_modules/abort-controller",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "dbbf03317f0101fed5643cd87ca80fb769e358fa4f428445bf2315deeb23a154"
+        }
+      ]
+    },
+    {
+      "name": "agent-base",
+      "version": "7.1.4",
+      "path": "node_modules/agent-base",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "8d8c55319c7729d57be811c747452636688d54f19701ee0752b6b15ad3771d9a"
+        }
+      ]
+    },
+    {
+      "name": "ansi-regex",
+      "version": "5.0.1",
+      "path": "node_modules/ansi-regex",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+        }
+      ]
+    },
+    {
+      "name": "ansi-styles",
+      "version": "4.3.0",
+      "path": "node_modules/ansi-styles",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+        }
+      ]
+    },
+    {
+      "name": "anynum",
+      "version": "1.0.1",
+      "path": "node_modules/anynum",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "8e75fc0e776c62ccadb8178ece8d3daa9ba7601fb0a49b2dfb0ea9a7a5c0aa07"
+        }
+      ]
+    },
+    {
+      "name": "aria-hidden",
+      "version": "1.2.6",
+      "path": "node_modules/aria-hidden",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "30f0cfddf483d1128e3610205020f2041a6c5e837aa999e0aa82e5576187d4a9"
+        }
+      ]
+    },
+    {
+      "name": "async",
+      "version": "3.2.6",
+      "path": "node_modules/async",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "d9fed24f132985934fca621c4dc1dfb53e03377a24d0568d424383d7eaa9c0ac"
+        }
+      ]
+    },
+    {
+      "name": "async-retry",
+      "version": "1.3.3",
+      "path": "node_modules/async-retry",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "91887c62d26f64b8d6e98b1dca57e75aca62e6f9af79fb0783f8f1904abaeea6"
+        }
+      ]
+    },
+    {
+      "name": "balanced-match",
+      "version": "1.0.2",
+      "path": "node_modules/balanced-match",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "a1bd5deadb6a06dd74efa852c1b8b23f63b67f2214fbe9c8bd591da51da69268"
+        }
+      ]
+    },
+    {
+      "name": "base64-js",
+      "version": "1.5.1",
+      "path": "node_modules/base64-js",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "5b37224c080cdcc97c871ada971c224e9926370fe74f11b539aa1cf9f3b1aca1"
+        }
+      ]
+    },
+    {
+      "name": "bignumber.js",
+      "version": "9.3.1",
+      "path": "node_modules/bignumber.js",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENCE.md",
+          "sha256": "def75ba75d6426f1c3f02addf8e175fbe6e0d8a82e541cbdffc16d2bd8fd7d6a"
+        }
+      ]
+    },
+    {
+      "name": "bl",
+      "version": "4.1.0",
+      "path": "node_modules/bl",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "9377db95383c8befacf05c6e465d969d756edf178487ca1344fdf3ba147c596f"
+        }
+      ]
+    },
+    {
+      "name": "bluebird",
+      "version": "3.7.2",
+      "path": "node_modules/bluebird",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "87092fe7ffd1e92eba5d1dd39b73a73fdb4fdd4df3474beacc3d9f6b08ece82c"
+        }
+      ]
+    },
+    {
+      "name": "brace-expansion",
+      "version": "1.1.21",
+      "path": "node_modules/brace-expansion",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "68f12f6e2c33688699249c01d8f9623c534da20aa71989c57b061b7bc1676d14"
+        }
+      ]
+    },
+    {
+      "name": "buffer",
+      "version": "5.7.1",
+      "path": "node_modules/buffer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "06bafa45fdad2579ba0e43b0c9b2c6290287c99c4203c300254a462b38a307f6"
+        }
+      ]
+    },
+    {
+      "name": "buffer-equal-constant-time",
+      "version": "1.0.1",
+      "path": "node_modules/buffer-equal-constant-time",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "751d0e80fb5c828f8c3de198cc760e1e05377e47c8263ab6ee2f10cdc19ba658"
+        }
+      ]
+    },
+    {
+      "name": "caniuse-lite",
+      "version": "1.0.30001812",
+      "path": "node_modules/caniuse-lite",
+      "declared": "CC-BY-4.0",
+      "reviewed": "CC-BY-4.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "fd3a263fe19ed8faa9068b43abaebafc02c77897b0c6fc09abc04bb592e5f16e"
+        }
+      ]
+    },
+    {
+      "name": "class-variance-authority",
+      "version": "0.7.1",
+      "path": "node_modules/class-variance-authority",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0ccbf956cffc8dcf515809433cb5242ee67c94513d46e48c261d68d0880de406"
+        }
+      ]
+    },
+    {
+      "name": "client-only",
+      "version": "0.0.1",
+      "path": "node_modules/client-only",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "cliui",
+      "version": "8.0.1",
+      "path": "node_modules/cliui",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "2dc0465729366c3a7890dfa9e972a1ba7048a26c02116fb8b419a6a1ac110149"
+        }
+      ]
+    },
+    {
+      "name": "emoji-regex",
+      "version": "8.0.0",
+      "path": "node_modules/cliui/node_modules/emoji-regex",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE-MIT.txt",
+          "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a"
+        }
+      ]
+    },
+    {
+      "name": "string-width",
+      "version": "4.2.3",
+      "path": "node_modules/cliui/node_modules/string-width",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+        }
+      ]
+    },
+    {
+      "name": "wrap-ansi",
+      "version": "7.0.0",
+      "path": "node_modules/cliui/node_modules/wrap-ansi",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "clsx",
+      "version": "2.1.1",
+      "path": "node_modules/clsx",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "9a9edad7baae52622bddf3c15b2ef8a33d2c89f2d25408ad13e8a7481c6b0c97"
+        }
+      ]
+    },
+    {
+      "name": "color-convert",
+      "version": "2.0.1",
+      "path": "node_modules/color-convert",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "693866fc419c6f61c8570438ec00659d156ec2b4d4a4d04091711f5f11a365d4"
+        }
+      ]
+    },
+    {
+      "name": "color-name",
+      "version": "1.1.4",
+      "path": "node_modules/color-name",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c064f7a3e353bc1bc977f3c897941c75ef763f44f41677e0a15370ca0853d6e2"
+        }
+      ]
+    },
+    {
+      "name": "concat-map",
+      "version": "0.0.1",
+      "path": "node_modules/concat-map",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b"
+        }
+      ]
+    },
+    {
+      "name": "core-util-is",
+      "version": "1.0.3",
+      "path": "node_modules/core-util-is",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "33b734d60042d0fe0c92dd1fc1e874193a1c899ec3e276a2eb935d2d0bf5b710"
+        }
+      ]
+    },
+    {
+      "name": "crc-32",
+      "version": "1.2.2",
+      "path": "node_modules/crc-32",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c542ba7851b5d39a5face477e47a27cb7c00a9759e321b66824e79718bffe1ac"
+        }
+      ]
+    },
+    {
+      "name": "cross-spawn",
+      "version": "7.0.6",
+      "path": "node_modules/cross-spawn",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "aaa78451b6fecd1b9c4594c796c133c0e90cad100372ff8bc6de615e9ef9adf1"
+        }
+      ]
+    },
+    {
+      "name": "crypto-random-string",
+      "version": "5.0.0",
+      "path": "node_modules/crypto-random-string",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "csstype",
+      "version": "3.2.3",
+      "path": "node_modules/csstype",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "11d55bd4541c75ee7879547ac49089c489163dae49551389713c3d026cab383e"
+        }
+      ]
+    },
+    {
+      "name": "d3-array",
+      "version": "3.2.4",
+      "path": "node_modules/d3-array",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4"
+        }
+      ]
+    },
+    {
+      "name": "d3-color",
+      "version": "3.1.0",
+      "path": "node_modules/d3-color",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "faa682e3e430941f958d26180458f5934a62f58dac4d70ccdd15608c15d0f884"
+        }
+      ]
+    },
+    {
+      "name": "d3-ease",
+      "version": "3.0.1",
+      "path": "node_modules/d3-ease",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "b989d9085148d21ff64a75e14462aefa06b2589a55553b07b1460c70081c7d08"
+        }
+      ]
+    },
+    {
+      "name": "d3-format",
+      "version": "3.1.2",
+      "path": "node_modules/d3-format",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2a6d2d5f32ba0b755ddbc1c833f766e30cdbe6ebe9a6d4e3e24427721f0b63d3"
+        }
+      ]
+    },
+    {
+      "name": "d3-interpolate",
+      "version": "3.0.1",
+      "path": "node_modules/d3-interpolate",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee"
+        }
+      ]
+    },
+    {
+      "name": "d3-path",
+      "version": "3.1.0",
+      "path": "node_modules/d3-path",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a09b0d6d76e768fca2085fad05743ee81ddd11946bcda160a3cf5e1081a479aa"
+        }
+      ]
+    },
+    {
+      "name": "d3-scale",
+      "version": "4.0.2",
+      "path": "node_modules/d3-scale",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee"
+        }
+      ]
+    },
+    {
+      "name": "d3-shape",
+      "version": "3.2.0",
+      "path": "node_modules/d3-shape",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "faa682e3e430941f958d26180458f5934a62f58dac4d70ccdd15608c15d0f884"
+        }
+      ]
+    },
+    {
+      "name": "d3-time",
+      "version": "3.1.0",
+      "path": "node_modules/d3-time",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "faa682e3e430941f958d26180458f5934a62f58dac4d70ccdd15608c15d0f884"
+        }
+      ]
+    },
+    {
+      "name": "d3-time-format",
+      "version": "4.1.0",
+      "path": "node_modules/d3-time-format",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee"
+        }
+      ]
+    },
+    {
+      "name": "d3-timer",
+      "version": "3.0.1",
+      "path": "node_modules/d3-timer",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee"
+        }
+      ]
+    },
+    {
+      "name": "date-fns",
+      "version": "3.6.0",
+      "path": "node_modules/date-fns",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "8d3951c38967b964b1fe259bfd200c2647cc04c858b55a4414e3122a60f1ef4b"
+        }
+      ]
+    },
+    {
+      "name": "date-fns-tz",
+      "version": "3.2.0",
+      "path": "node_modules/date-fns-tz",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "54a4274bc32c7e4f8db2f4169e7d5a1affab53625573eea780bed67ff7cd1f4b"
+        }
+      ]
+    },
+    {
+      "name": "dayjs",
+      "version": "1.11.23",
+      "path": "node_modules/dayjs",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "5faab7526d055651be3aab769d58897be6bd91f3d39d137f25f12dba1b31d5dc"
+        }
+      ]
+    },
+    {
+      "name": "debug",
+      "version": "4.4.3",
+      "path": "node_modules/debug",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "3a61c6c96caf5c1d9b623fb9b04c822b783dfcb78aa7e49c76a3f643e6ed7f95"
+        }
+      ]
+    },
+    {
+      "name": "decimal.js-light",
+      "version": "2.5.1",
+      "path": "node_modules/decimal.js-light",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENCE.md",
+          "sha256": "fc0397fbd5c128bec7edef4e8d3f45e15db5fd043cdd0a2edfc4f14d47fbc3e4"
+        }
+      ]
+    },
+    {
+      "name": "detect-libc",
+      "version": "2.1.2",
+      "path": "node_modules/detect-libc",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+        }
+      ]
+    },
+    {
+      "name": "detect-node-es",
+      "version": "1.1.0",
+      "path": "node_modules/detect-node-es",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "54b32293ea560d22cd9b62af9b2cda1a030d910a48c6601d227c5ff2338d95f8"
+        }
+      ]
+    },
+    {
+      "name": "dom-helpers",
+      "version": "5.2.1",
+      "path": "node_modules/dom-helpers",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "1b0a9ba95a67bc484e028b13c61b83fc5aa1ca7957d1e2d43c2b0f70d9e9dd45"
+        }
+      ]
+    },
+    {
+      "name": "duplexer2",
+      "version": "0.1.4",
+      "path": "node_modules/duplexer2",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "252a200ba7a38686f7954ec4cb09b3ad7788fa099eb724de167d7ab16b1244b9"
+        }
+      ]
+    },
+    {
+      "name": "isarray",
+      "version": "1.0.0",
+      "path": "node_modules/duplexer2/node_modules/isarray",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "readable-stream",
+      "version": "2.3.8",
+      "path": "node_modules/duplexer2/node_modules/readable-stream",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ec62dc96da0099b87f4511736c87309335527fb7031639493e06c95728dc8c54"
+        }
+      ]
+    },
+    {
+      "name": "safe-buffer",
+      "version": "5.1.2",
+      "path": "node_modules/duplexer2/node_modules/safe-buffer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c7cc929b57080f4b9d0c6cf57669f0463fc5b39906344dfc8d3bc43426b30eac"
+        }
+      ]
+    },
+    {
+      "name": "string_decoder",
+      "version": "1.1.1",
+      "path": "node_modules/duplexer2/node_modules/string_decoder",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "11f2aafb37d06b3ee5bdaf06e9811141d0da05263c316f3d627f45c20d43261b"
+        }
+      ]
+    },
+    {
+      "name": "duplexify",
+      "version": "4.1.3",
+      "path": "node_modules/duplexify",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "3fe8d55a98dbf260eace67c00cf9bc53edb46234e840098a0b93df3096b97fb6"
+        }
+      ]
+    },
+    {
+      "name": "eastasianwidth",
+      "version": "0.2.0",
+      "path": "node_modules/eastasianwidth",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "ecdsa-sig-formatter",
+      "version": "1.0.11",
+      "path": "node_modules/ecdsa-sig-formatter",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "50a6b24f8defc31a078aa9799a91d776f83948071574854f12473362aee74d0d"
+        }
+      ]
+    },
+    {
+      "name": "emoji-regex",
+      "version": "9.2.2",
+      "path": "node_modules/emoji-regex",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE-MIT.txt",
+          "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a"
+        }
+      ]
+    },
+    {
+      "name": "end-of-stream",
+      "version": "1.4.5",
+      "path": "node_modules/end-of-stream",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "3fe8d55a98dbf260eace67c00cf9bc53edb46234e840098a0b93df3096b97fb6"
+        }
+      ]
+    },
+    {
+      "name": "escalade",
+      "version": "3.2.0",
+      "path": "node_modules/escalade",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "9a9edad7baae52622bddf3c15b2ef8a33d2c89f2d25408ad13e8a7481c6b0c97"
+        }
+      ]
+    },
+    {
+      "name": "event-target-shim",
+      "version": "5.0.1",
+      "path": "node_modules/event-target-shim",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "97d87142793695cd73243de7258694abe85b3b6060fca7f247b0a2afa8219678"
+        }
+      ]
+    },
+    {
+      "name": "eventemitter3",
+      "version": "4.0.7",
+      "path": "node_modules/eventemitter3",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "3aecc12b1cb28832b5f65ab64291de96568c3f236a74d646281b4491f7bcadbf"
+        }
+      ]
+    },
+    {
+      "name": "exceljs",
+      "version": "4.4.0",
+      "path": "node_modules/exceljs",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2ed526b7e7c7681dc2347995b5036ddf73dc27d0539cdea59b6d4a72b63a57a0"
+        }
+      ]
+    },
+    {
+      "name": "archiver",
+      "version": "5.3.2",
+      "path": "node_modules/exceljs/node_modules/archiver",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "9e23899170d96e708b24a2afce11e96d169c8cebf1bd24ac60b675a400cb1cf1"
+        }
+      ]
+    },
+    {
+      "name": "archiver-utils",
+      "version": "2.1.0",
+      "path": "node_modules/exceljs/node_modules/archiver-utils",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "19a37eba4fee8b33d904c46235c30bd668cff139f50b1fa5c7c57d2f920e6a4f"
+        }
+      ]
+    },
+    {
+      "name": "readable-stream",
+      "version": "2.3.8",
+      "path": "node_modules/exceljs/node_modules/archiver-utils/node_modules/readable-stream",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ec62dc96da0099b87f4511736c87309335527fb7031639493e06c95728dc8c54"
+        }
+      ]
+    },
+    {
+      "name": "buffer-crc32",
+      "version": "0.2.13",
+      "path": "node_modules/exceljs/node_modules/buffer-crc32",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "14895b82e3367b66bdb127fe91505f8615491f2a23eb1c0b7d8f7c54be67f57a"
+        }
+      ]
+    },
+    {
+      "name": "compress-commons",
+      "version": "4.1.2",
+      "path": "node_modules/exceljs/node_modules/compress-commons",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "79bad9f51738814f83251ae89460326b2ff2ea19ff5f71ab8f7636b2e17bb231"
+        }
+      ]
+    },
+    {
+      "name": "crc32-stream",
+      "version": "4.0.3",
+      "path": "node_modules/exceljs/node_modules/crc32-stream",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "79bad9f51738814f83251ae89460326b2ff2ea19ff5f71ab8f7636b2e17bb231"
+        }
+      ]
+    },
+    {
+      "name": "glob",
+      "version": "7.2.3",
+      "path": "node_modules/exceljs/node_modules/glob",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "6236fa0b88a4a0cce3dda0367979491b2052b3c8d6b1c10b3668de083e86a7f0"
+        }
+      ]
+    },
+    {
+      "name": "isarray",
+      "version": "1.0.0",
+      "path": "node_modules/exceljs/node_modules/isarray",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "safe-buffer",
+      "version": "5.1.2",
+      "path": "node_modules/exceljs/node_modules/safe-buffer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c7cc929b57080f4b9d0c6cf57669f0463fc5b39906344dfc8d3bc43426b30eac"
+        }
+      ]
+    },
+    {
+      "name": "string_decoder",
+      "version": "1.1.1",
+      "path": "node_modules/exceljs/node_modules/string_decoder",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "11f2aafb37d06b3ee5bdaf06e9811141d0da05263c316f3d627f45c20d43261b"
+        }
+      ]
+    },
+    {
+      "name": "tar-stream",
+      "version": "2.2.0",
+      "path": "node_modules/exceljs/node_modules/tar-stream",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "3fe8d55a98dbf260eace67c00cf9bc53edb46234e840098a0b93df3096b97fb6"
+        }
+      ]
+    },
+    {
+      "name": "zip-stream",
+      "version": "4.1.1",
+      "path": "node_modules/exceljs/node_modules/zip-stream",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "79bad9f51738814f83251ae89460326b2ff2ea19ff5f71ab8f7636b2e17bb231"
+        }
+      ]
+    },
+    {
+      "name": "archiver-utils",
+      "version": "3.0.4",
+      "path": "node_modules/exceljs/node_modules/zip-stream/node_modules/archiver-utils",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "9fe335fb097fbff0b7f709ee14a77b1d1cf739d3400cd0b0e19118946772ea56"
+        }
+      ]
+    },
+    {
+      "name": "extend",
+      "version": "3.0.2",
+      "path": "node_modules/extend",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "97af7428f93afbab9bf79cd09254da1357161794f4255eb1b4599f04dd2d2e7c"
+        }
+      ]
+    },
+    {
+      "name": "fast-csv",
+      "version": "4.3.6",
+      "path": "node_modules/fast-csv",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2450088d1769a2b36e210a5a345a55b209944f4c6a9a89f7ce3aaba163680a42"
+        }
+      ]
+    },
+    {
+      "name": "fast-deep-equal",
+      "version": "3.1.3",
+      "path": "node_modules/fast-deep-equal",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a"
+        }
+      ]
+    },
+    {
+      "name": "fast-equals",
+      "version": "5.4.3",
+      "path": "node_modules/fast-equals",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c0af1c3e74a891b408dc4365897482cc8c284365808e3837c56ea3c337ed7a2c"
+        }
+      ]
+    },
+    {
+      "name": "fast-xml-builder",
+      "version": "1.3.1",
+      "path": "node_modules/fast-xml-builder",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "8e75fc0e776c62ccadb8178ece8d3daa9ba7601fb0a49b2dfb0ea9a7a5c0aa07"
+        }
+      ]
+    },
+    {
+      "name": "fast-xml-parser",
+      "version": "5.11.1",
+      "path": "node_modules/fast-xml-parser",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "7883225d5e84a6bbb9b170c3d891b4bf6d6259cee869c86bd86381a927071745"
+        }
+      ]
+    },
+    {
+      "name": "faye-websocket",
+      "version": "0.11.4",
+      "path": "node_modules/faye-websocket",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "8902618377ddec746fc6aba466b4d489c0d4bba91d098d2be4637819f8d14d54"
+        }
+      ]
+    },
+    {
+      "name": "fetch-blob",
+      "version": "3.2.0",
+      "path": "node_modules/fetch-blob",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a5edccac92c3aa845694dcfaa72a0c098c1ae40d5ca6a37e4e59d778cf8e29bd"
+        }
+      ]
+    },
+    {
+      "name": "firebase",
+      "version": "12.19.0",
+      "path": "node_modules/firebase",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "firebase-admin",
+      "version": "14.5.0",
+      "path": "node_modules/firebase-admin",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+        }
+      ]
+    },
+    {
+      "name": "data-uri-to-buffer",
+      "version": "4.0.1",
+      "path": "node_modules/firebase-admin/node_modules/data-uri-to-buffer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "gaxios",
+      "version": "7.3.1",
+      "path": "node_modules/firebase-admin/node_modules/gaxios",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "gcp-metadata",
+      "version": "9.0.4",
+      "path": "node_modules/firebase-admin/node_modules/gcp-metadata",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "google-auth-library",
+      "version": "11.1.0",
+      "path": "node_modules/firebase-admin/node_modules/google-auth-library",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "google-logging-utils",
+      "version": "2.0.1",
+      "path": "node_modules/firebase-admin/node_modules/google-logging-utils",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "node-fetch",
+      "version": "3.3.2",
+      "path": "node_modules/firebase-admin/node_modules/node-fetch",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "3e2c11dcf3f17ab585baab8faba54772d7872f1c6e026022acd4b4006665efb0"
+        }
+      ]
+    },
+    {
+      "name": "@firebase/auth",
+      "version": "1.13.6",
+      "path": "node_modules/firebase/node_modules/@firebase/auth",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "foreground-child",
+      "version": "3.3.1",
+      "path": "node_modules/foreground-child",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "93f5d82a8d59442fe3275383453a255fef761647fb28265644010ba799806148"
+        }
+      ]
+    },
+    {
+      "name": "formdata-polyfill",
+      "version": "4.0.10",
+      "path": "node_modules/formdata-polyfill",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "435a6437e47e5e479942255680e7fbe5f333d55234ada1c35f6115ca641d5bb4"
+        }
+      ]
+    },
+    {
+      "name": "fs-constants",
+      "version": "1.0.0",
+      "path": "node_modules/fs-constants",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2281f2db407bdbb54f069eec38128b2dee2c0c952f52b786ef1faecb81767b3c"
+        }
+      ]
+    },
+    {
+      "name": "fs.realpath",
+      "version": "1.0.0",
+      "path": "node_modules/fs.realpath",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "8465b04b67f473341171b5c9c8b2c741a4a395b3f6ed58339b3a4f4db3db7472"
+        }
+      ]
+    },
+    {
+      "name": "functional-red-black-tree",
+      "version": "1.0.1",
+      "path": "node_modules/functional-red-black-tree",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e67aed7df22dc8031e4fcf5338fe91cb33e3817e5c58a99a2a2802eea9069791"
+        }
+      ]
+    },
+    {
+      "name": "gaxios",
+      "version": "6.7.1",
+      "path": "node_modules/gaxios",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "gcp-metadata",
+      "version": "6.1.1",
+      "path": "node_modules/gcp-metadata",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "get-caller-file",
+      "version": "2.0.5",
+      "path": "node_modules/get-caller-file",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "902dbb4154679fb2b8d7c33878183f45b268d01eae5e5033dddaa8852d45f213"
+        }
+      ]
+    },
+    {
+      "name": "get-nonce",
+      "version": "1.0.1",
+      "path": "node_modules/get-nonce",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "acf3b087b348d2f2e731b9d4131af185aad694c1204ce14a46909483fd42da05"
+        }
+      ]
+    },
+    {
+      "name": "glob",
+      "version": "10.5.0",
+      "path": "node_modules/glob",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cdbc258d13806538e727964c2436a8806e6e2496ccd616224aace6f7bf98dbc1"
+        }
+      ]
+    },
+    {
+      "name": "brace-expansion",
+      "version": "2.1.7",
+      "path": "node_modules/glob/node_modules/brace-expansion",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "68f12f6e2c33688699249c01d8f9623c534da20aa71989c57b061b7bc1676d14"
+        }
+      ]
+    },
+    {
+      "name": "minimatch",
+      "version": "9.0.9",
+      "path": "node_modules/glob/node_modules/minimatch",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "d11323827fa4edeaafc437cc5b91b6971b335f0127efeeb42bf5122fe8657e8f"
+        }
+      ]
+    },
+    {
+      "name": "google-auth-library",
+      "version": "9.15.1",
+      "path": "node_modules/google-auth-library",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "google-gax",
+      "version": "6.7.0",
+      "path": "node_modules/google-gax",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "@grpc/proto-loader",
+      "version": "0.8.1",
+      "path": "node_modules/google-gax/node_modules/@grpc/proto-loader",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+        }
+      ]
+    },
+    {
+      "name": "data-uri-to-buffer",
+      "version": "4.0.1",
+      "path": "node_modules/google-gax/node_modules/data-uri-to-buffer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "gaxios",
+      "version": "7.3.1",
+      "path": "node_modules/google-gax/node_modules/gaxios",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "gcp-metadata",
+      "version": "9.0.4",
+      "path": "node_modules/google-gax/node_modules/gcp-metadata",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "google-auth-library",
+      "version": "11.1.0",
+      "path": "node_modules/google-gax/node_modules/google-auth-library",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "google-logging-utils",
+      "version": "2.0.1",
+      "path": "node_modules/google-gax/node_modules/google-logging-utils",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "node-fetch",
+      "version": "3.3.2",
+      "path": "node_modules/google-gax/node_modules/node-fetch",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "3e2c11dcf3f17ab585baab8faba54772d7872f1c6e026022acd4b4006665efb0"
+        }
+      ]
+    },
+    {
+      "name": "google-logging-utils",
+      "version": "0.0.2",
+      "path": "node_modules/google-logging-utils",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "graceful-fs",
+      "version": "4.2.11",
+      "path": "node_modules/graceful-fs",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "f65c5d9f22a317b2a10803bd1868461ce6499c2ed7217bc80c0cc772a748789c"
+        }
+      ]
+    },
+    {
+      "name": "gtoken",
+      "version": "7.1.0",
+      "path": "node_modules/gtoken",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ace51ee77a0c6ebf8885e3b1de75b410f77fbc76602b063fbfd74d96f8574296"
+        }
+      ]
+    },
+    {
+      "name": "html-entities",
+      "version": "2.6.0",
+      "path": "node_modules/html-entities",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "10b2831912dc4dc91b25429511e6c74f901eebf64b625328f8fd08dd9c3cf8fe"
+        }
+      ]
+    },
+    {
+      "name": "http-parser-js",
+      "version": "0.5.10",
+      "path": "node_modules/http-parser-js",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "78cd8b5ed8c97bfca3d7ba48cbba846df42bfcf96ebe137cd6122100236fb6e1"
+        }
+      ]
+    },
+    {
+      "name": "http-proxy-agent",
+      "version": "7.0.2",
+      "path": "node_modules/http-proxy-agent",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "71368fd0f5b4129191e9afcd1e1ef2dc89a9090d3e4d80bbab92dafd032b3bef"
+        }
+      ]
+    },
+    {
+      "name": "https-proxy-agent",
+      "version": "7.0.6",
+      "path": "node_modules/https-proxy-agent",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "8d8c55319c7729d57be811c747452636688d54f19701ee0752b6b15ad3771d9a"
+        }
+      ]
+    },
+    {
+      "name": "idb",
+      "version": "7.1.1",
+      "path": "node_modules/idb",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "873a2f333fda393ec3464f4579209b019d98e97c3bf498b10e85f630162fd708"
+        }
+      ]
+    },
+    {
+      "name": "ieee754",
+      "version": "1.2.1",
+      "path": "node_modules/ieee754",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "18d45466ba3253deae04667e267a91ea8de8548f18c1125264d1c9db28194cc1"
+        }
+      ]
+    },
+    {
+      "name": "immediate",
+      "version": "3.0.6",
+      "path": "node_modules/immediate",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "809e66de579fb7d92503848bbe6d1f348f4f6521a71e5d294fe7cc0c87a3b4ff"
+        }
+      ]
+    },
+    {
+      "name": "inflight",
+      "version": "1.0.6",
+      "path": "node_modules/inflight",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "05dc4d785ac3a488676d3ed10e901b75ad89dafcc63f8e66610fd4a39cc5c7e8"
+        }
+      ]
+    },
+    {
+      "name": "inherits",
+      "version": "2.0.4",
+      "path": "node_modules/inherits",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "5ffe28e7ade7d8f10d85d5337a73fd793dac5c462fb9a28fbf8c5046c7fbca3b"
+        }
+      ]
+    },
+    {
+      "name": "internmap",
+      "version": "2.0.3",
+      "path": "node_modules/internmap",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "9ea8903938dab5f12c4572d60725069bec2d1b0dc3bcc210b09bae946a5ebb1f"
+        }
+      ]
+    },
+    {
+      "name": "is-fullwidth-code-point",
+      "version": "3.0.0",
+      "path": "node_modules/is-fullwidth-code-point",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+        }
+      ]
+    },
+    {
+      "name": "is-stream",
+      "version": "2.0.1",
+      "path": "node_modules/is-stream",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "is-unsafe",
+      "version": "2.0.2",
+      "path": "node_modules/is-unsafe",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "8e75fc0e776c62ccadb8178ece8d3daa9ba7601fb0a49b2dfb0ea9a7a5c0aa07"
+        }
+      ]
+    },
+    {
+      "name": "isexe",
+      "version": "2.0.0",
+      "path": "node_modules/isexe",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b"
+        }
+      ]
+    },
+    {
+      "name": "jackspeak",
+      "version": "3.4.3",
+      "path": "node_modules/jackspeak",
+      "declared": "BlueOak-1.0.0",
+      "reviewed": "BlueOak-1.0.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "2c7c5d22ed5a8ee968c64757710979afcd77438c48b4a265b94e615babd8a901"
+        }
+      ]
+    },
+    {
+      "name": "jose",
+      "version": "6.2.12",
+      "path": "node_modules/jose",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "8078b0829d6c3e9ecde2f003e1966e4cad3efc6e7a640efbab0313cc166b1af1"
+        }
+      ]
+    },
+    {
+      "name": "js-tokens",
+      "version": "4.0.0",
+      "path": "node_modules/js-tokens",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2213d91c606205c71eb051a199478cdc2adde945893404d7f1421436dd6d5cc1"
+        }
+      ]
+    },
+    {
+      "name": "json-bigint",
+      "version": "1.0.0",
+      "path": "node_modules/json-bigint",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "def82c085d05e795fe6a9cb5b70c48e022212355afc0e91d4de047cade28df06"
+        }
+      ]
+    },
+    {
+      "name": "jsonfile",
+      "version": "6.2.1",
+      "path": "node_modules/jsonfile",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a9801fb52ba22ef808682a094da8a7a480584b7ed0dfd0d888ab543616335031"
+        }
+      ]
+    },
+    {
+      "name": "jsonwebtoken",
+      "version": "9.0.3",
+      "path": "node_modules/jsonwebtoken",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2144eb6894cb440fde6b2b3aaae3b617c8f1dc9bb19813079dcf62ec6c517042"
+        }
+      ]
+    },
+    {
+      "name": "jszip",
+      "version": "3.10.2",
+      "path": "node_modules/jszip",
+      "declared": "(MIT OR GPL-3.0-or-later)",
+      "reviewed": "(MIT OR GPL-3.0-or-later)",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.markdown",
+          "sha256": "566c953c6090b1218ca6217dd7359d45dde46581968586dc607d59a78af6a9c4"
+        }
+      ]
+    },
+    {
+      "name": "isarray",
+      "version": "1.0.0",
+      "path": "node_modules/jszip/node_modules/isarray",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "readable-stream",
+      "version": "2.3.8",
+      "path": "node_modules/jszip/node_modules/readable-stream",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ec62dc96da0099b87f4511736c87309335527fb7031639493e06c95728dc8c54"
+        }
+      ]
+    },
+    {
+      "name": "safe-buffer",
+      "version": "5.1.2",
+      "path": "node_modules/jszip/node_modules/safe-buffer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c7cc929b57080f4b9d0c6cf57669f0463fc5b39906344dfc8d3bc43426b30eac"
+        }
+      ]
+    },
+    {
+      "name": "string_decoder",
+      "version": "1.1.1",
+      "path": "node_modules/jszip/node_modules/string_decoder",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "11f2aafb37d06b3ee5bdaf06e9811141d0da05263c316f3d627f45c20d43261b"
+        }
+      ]
+    },
+    {
+      "name": "jwa",
+      "version": "2.0.1",
+      "path": "node_modules/jwa",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "3320319f8a5f42bc4254e65471eca7a5ea4dc8c883c4c24b4868e36b14890bcf"
+        }
+      ]
+    },
+    {
+      "name": "jwks-rsa",
+      "version": "4.1.0",
+      "path": "node_modules/jwks-rsa",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "f4c5799fa06fc3fd0469586e6efe3a09642cb5f02f82df804b6a961da2a3e8d4"
+        }
+      ]
+    },
+    {
+      "name": "lru-cache",
+      "version": "11.5.3",
+      "path": "node_modules/jwks-rsa/node_modules/lru-cache",
+      "declared": "BlueOak-1.0.0",
+      "reviewed": "BlueOak-1.0.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "8a1af140fdfbf5afd3df27f7e662f989c5b963a300020dfafce42033cae9e004"
+        }
+      ]
+    },
+    {
+      "name": "jws",
+      "version": "4.0.1",
+      "path": "node_modules/jws",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "3320319f8a5f42bc4254e65471eca7a5ea4dc8c883c4c24b4868e36b14890bcf"
+        }
+      ]
+    },
+    {
+      "name": "lazystream",
+      "version": "1.0.1",
+      "path": "node_modules/lazystream",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e7f5d28405c9fe6580db684634bace66953055b436d7fbb6f860d0c800c44a9f"
+        }
+      ]
+    },
+    {
+      "name": "isarray",
+      "version": "1.0.0",
+      "path": "node_modules/lazystream/node_modules/isarray",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "readable-stream",
+      "version": "2.3.8",
+      "path": "node_modules/lazystream/node_modules/readable-stream",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ec62dc96da0099b87f4511736c87309335527fb7031639493e06c95728dc8c54"
+        }
+      ]
+    },
+    {
+      "name": "safe-buffer",
+      "version": "5.1.2",
+      "path": "node_modules/lazystream/node_modules/safe-buffer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c7cc929b57080f4b9d0c6cf57669f0463fc5b39906344dfc8d3bc43426b30eac"
+        }
+      ]
+    },
+    {
+      "name": "string_decoder",
+      "version": "1.1.1",
+      "path": "node_modules/lazystream/node_modules/string_decoder",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "11f2aafb37d06b3ee5bdaf06e9811141d0da05263c316f3d627f45c20d43261b"
+        }
+      ]
+    },
+    {
+      "name": "lie",
+      "version": "3.3.0",
+      "path": "node_modules/lie",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license.md",
+          "sha256": "5c81b0caa98593408b03125efa25efe622341ed87ae55561968828cd887d64a4"
+        }
+      ]
+    },
+    {
+      "name": "limiter",
+      "version": "1.1.5",
+      "path": "node_modules/limiter",
+      "declared": "UNKNOWN",
+      "reviewed": "MIT",
+      "observation": "MIT identificado em LICENSE.txt; lockfile não declara",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "a3aebd11ea5598ef12949bf793311bf155ab7727181e3d373bd0b47813d41111"
+        }
+      ]
+    },
+    {
+      "name": "lodash",
+      "version": "4.18.1",
+      "path": "node_modules/lodash",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "f71e8ed126b46346494aad5486874cd8f0aafe95092ed67d2e3cb6110f939abc"
+        }
+      ]
+    },
+    {
+      "name": "lodash.camelcase",
+      "version": "4.3.0",
+      "path": "node_modules/lodash.camelcase",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.clonedeep",
+      "version": "4.5.0",
+      "path": "node_modules/lodash.clonedeep",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.defaults",
+      "version": "4.2.0",
+      "path": "node_modules/lodash.defaults",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.difference",
+      "version": "4.5.0",
+      "path": "node_modules/lodash.difference",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.escaperegexp",
+      "version": "4.1.2",
+      "path": "node_modules/lodash.escaperegexp",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.flatten",
+      "version": "4.4.0",
+      "path": "node_modules/lodash.flatten",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.groupby",
+      "version": "4.6.0",
+      "path": "node_modules/lodash.groupby",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.includes",
+      "version": "4.3.0",
+      "path": "node_modules/lodash.includes",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.isboolean",
+      "version": "3.0.3",
+      "path": "node_modules/lodash.isboolean",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "25a399d4a42f419445101092a1fc3f9b4bfe06d614f84128222d79e3a2105fe7"
+        }
+      ]
+    },
+    {
+      "name": "lodash.isequal",
+      "version": "4.5.0",
+      "path": "node_modules/lodash.isequal",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e159c6d48c989185448658f276375bfb2300362ec6d4ae5525a2d49c4bcb947d"
+        }
+      ]
+    },
+    {
+      "name": "lodash.isfunction",
+      "version": "3.0.9",
+      "path": "node_modules/lodash.isfunction",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e159c6d48c989185448658f276375bfb2300362ec6d4ae5525a2d49c4bcb947d"
+        }
+      ]
+    },
+    {
+      "name": "lodash.isinteger",
+      "version": "4.0.4",
+      "path": "node_modules/lodash.isinteger",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.isnil",
+      "version": "4.0.0",
+      "path": "node_modules/lodash.isnil",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "25a399d4a42f419445101092a1fc3f9b4bfe06d614f84128222d79e3a2105fe7"
+        }
+      ]
+    },
+    {
+      "name": "lodash.isnumber",
+      "version": "3.0.3",
+      "path": "node_modules/lodash.isnumber",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "25a399d4a42f419445101092a1fc3f9b4bfe06d614f84128222d79e3a2105fe7"
+        }
+      ]
+    },
+    {
+      "name": "lodash.isplainobject",
+      "version": "4.0.6",
+      "path": "node_modules/lodash.isplainobject",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.isstring",
+      "version": "4.0.1",
+      "path": "node_modules/lodash.isstring",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "25a399d4a42f419445101092a1fc3f9b4bfe06d614f84128222d79e3a2105fe7"
+        }
+      ]
+    },
+    {
+      "name": "lodash.isundefined",
+      "version": "3.0.1",
+      "path": "node_modules/lodash.isundefined",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "90df9e2220f682e1f77e24b1c0f72d2de18b818096c957a65698e74c41a4826f"
+        }
+      ]
+    },
+    {
+      "name": "lodash.once",
+      "version": "4.1.1",
+      "path": "node_modules/lodash.once",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.union",
+      "version": "4.6.0",
+      "path": "node_modules/lodash.union",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "lodash.uniq",
+      "version": "4.5.0",
+      "path": "node_modules/lodash.uniq",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272"
+        }
+      ]
+    },
+    {
+      "name": "long",
+      "version": "5.3.2",
+      "path": "node_modules/long",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "loose-envify",
+      "version": "1.4.0",
+      "path": "node_modules/loose-envify",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "4eb7543b08d955a6d23fcc224601d43ff566e775be918805e26210d7f6eb4893"
+        }
+      ]
+    },
+    {
+      "name": "lru-memoizer",
+      "version": "3.0.0",
+      "path": "node_modules/lru-memoizer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "4ebab15d02f448333458508482da346abbe7ec352840dec404c24ac5db96a352"
+        }
+      ]
+    },
+    {
+      "name": "lru-cache",
+      "version": "11.5.3",
+      "path": "node_modules/lru-memoizer/node_modules/lru-cache",
+      "declared": "BlueOak-1.0.0",
+      "reviewed": "BlueOak-1.0.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "8a1af140fdfbf5afd3df27f7e662f989c5b963a300020dfafce42033cae9e004"
+        }
+      ]
+    },
+    {
+      "name": "lucide-react",
+      "version": "0.396.0",
+      "path": "node_modules/lucide-react",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "1e7290b35280a048667bbf0ebabac1c7fd52a75300e8b2946ac165715997f2bc"
+        }
+      ]
+    },
+    {
+      "name": "mime",
+      "version": "3.0.0",
+      "path": "node_modules/mime",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "8f2658c03422c408b2b2ce4d151decc3b1a6fd3d86e5ca9433777bccdcdf75a2"
+        }
+      ]
+    },
+    {
+      "name": "minimatch",
+      "version": "3.1.5",
+      "path": "node_modules/minimatch",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b"
+        }
+      ]
+    },
+    {
+      "name": "minipass",
+      "version": "7.1.3",
+      "path": "node_modules/minipass",
+      "declared": "BlueOak-1.0.0",
+      "reviewed": "BlueOak-1.0.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "8a1af140fdfbf5afd3df27f7e662f989c5b963a300020dfafce42033cae9e004"
+        }
+      ]
+    },
+    {
+      "name": "ms",
+      "version": "2.1.3",
+      "path": "node_modules/ms",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license.md",
+          "sha256": "1662fae9b5314d11cf51284e2dcd1f006a354f7343f08712a730fcff9a359801"
+        }
+      ]
+    },
+    {
+      "name": "nanoid",
+      "version": "3.3.19",
+      "path": "node_modules/nanoid",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "da4db1480d9beea3483a2eda5c53b22238d0827d57da162b48f122e04d2d9987"
+        }
+      ]
+    },
+    {
+      "name": "next",
+      "version": "15.5.27",
+      "path": "node_modules/next",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license.md",
+          "sha256": "ee765244e2d59f5234d474f62e0766fa0c8b99af967fdd4c0cb8dcb0c76ea224"
+        }
+      ]
+    },
+    {
+      "name": "next-themes",
+      "version": "0.3.0",
+      "path": "node_modules/next-themes",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "node-domexception",
+      "version": "1.0.0",
+      "path": "node_modules/node-domexception",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "8ec1386f7f078b0c7cd25341cd80f332df902371cda9f40c10ec2b4007b420b7"
+        }
+      ]
+    },
+    {
+      "name": "node-fetch",
+      "version": "2.7.0",
+      "path": "node_modules/node-fetch",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "84eaa985e1ef71b8c630e8aba73404c219ff425c6fdb45c62e998b58d4fbdc8e"
+        }
+      ]
+    },
+    {
+      "name": "node-int64",
+      "version": "0.4.0",
+      "path": "node_modules/node-int64",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "8f85aab053e268546014761da47630a09886626afbd0d8d440cb2c69611bb8d3"
+        }
+      ]
+    },
+    {
+      "name": "normalize-path",
+      "version": "3.0.0",
+      "path": "node_modules/normalize-path",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e70ff771504ba41f2be55de812a017ff46433d7a250c862e38fc419159e44500"
+        }
+      ]
+    },
+    {
+      "name": "object-assign",
+      "version": "4.1.1",
+      "path": "node_modules/object-assign",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "6fb9754611c20f6649f68805e8c990e83261f29316e29de9e6cedae607b8634c"
+        }
+      ]
+    },
+    {
+      "name": "object-hash",
+      "version": "3.0.0",
+      "path": "node_modules/object-hash",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ea9e6806c48a8a043ad8f2446527dc860617068265cffbef3efa4aaba39f18d8"
+        }
+      ]
+    },
+    {
+      "name": "once",
+      "version": "1.4.0",
+      "path": "node_modules/once",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b"
+        }
+      ]
+    },
+    {
+      "name": "p-limit",
+      "version": "3.1.0",
+      "path": "node_modules/p-limit",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "package-json-from-dist",
+      "version": "1.0.1",
+      "path": "node_modules/package-json-from-dist",
+      "declared": "BlueOak-1.0.0",
+      "reviewed": "BlueOak-1.0.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "a49c9ba464796f65b59fca3f1e6ca40912df1e859f575383223f7ec6c5baae09"
+        }
+      ]
+    },
+    {
+      "name": "pako",
+      "version": "1.0.11",
+      "path": "node_modules/pako",
+      "declared": "(MIT AND Zlib)",
+      "reviewed": "(MIT AND Zlib)",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a04665b3b2de56c66730c1f720f528175739e4104f79073614aa611da1e85539"
+        }
+      ]
+    },
+    {
+      "name": "path-expression-matcher",
+      "version": "1.6.2",
+      "path": "node_modules/path-expression-matcher",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "75486ea0af9309140ca6e2c401d7e67bea8f4892344e5707f6394dc5e83dfc44"
+        }
+      ]
+    },
+    {
+      "name": "path-is-absolute",
+      "version": "1.0.1",
+      "path": "node_modules/path-is-absolute",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "6fb9754611c20f6649f68805e8c990e83261f29316e29de9e6cedae607b8634c"
+        }
+      ]
+    },
+    {
+      "name": "path-key",
+      "version": "3.1.1",
+      "path": "node_modules/path-key",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+        }
+      ]
+    },
+    {
+      "name": "path-scurry",
+      "version": "1.11.1",
+      "path": "node_modules/path-scurry",
+      "declared": "BlueOak-1.0.0",
+      "reviewed": "BlueOak-1.0.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "8a1af140fdfbf5afd3df27f7e662f989c5b963a300020dfafce42033cae9e004"
+        }
+      ]
+    },
+    {
+      "name": "lru-cache",
+      "version": "10.4.3",
+      "path": "node_modules/path-scurry/node_modules/lru-cache",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "451ec07eeb9c4e1b86de9abdaa426462a8be48f887ec7421cf0bbb9c769555ab"
+        }
+      ]
+    },
+    {
+      "name": "picocolors",
+      "version": "1.1.1",
+      "path": "node_modules/picocolors",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "6582629e2979466878f6014313dcc2f3756c9616148682227ce3063dde310750"
+        }
+      ]
+    },
+    {
+      "name": "postcss",
+      "version": "8.5.28",
+      "path": "node_modules/postcss",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "5be1f3465bba68a626777f984878814aaf35e7ef8e9fd314d469bcf887050fb8"
+        }
+      ]
+    },
+    {
+      "name": "process-nextick-args",
+      "version": "2.0.1",
+      "path": "node_modules/process-nextick-args",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license.md",
+          "sha256": "ecdccbcf39024f624ded480c01c0b25458e1eca8f26ecf040933865ce56d9a4f"
+        }
+      ]
+    },
+    {
+      "name": "prop-types",
+      "version": "15.8.1",
+      "path": "node_modules/prop-types",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "f657f99d3fb9647db92628e96007aabb46e5f04f33e49999075aab8e250ca7ce"
+        }
+      ]
+    },
+    {
+      "name": "react-is",
+      "version": "16.13.1",
+      "path": "node_modules/prop-types/node_modules/react-is",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85"
+        }
+      ]
+    },
+    {
+      "name": "proto3-json-serializer",
+      "version": "4.0.2",
+      "path": "node_modules/proto3-json-serializer",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "protobufjs",
+      "version": "7.6.6",
+      "path": "node_modules/protobufjs",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "49d6a1c9a623784c61c6cb70f773f3457faceb1914a13c8560a9823b7631950c"
+        }
+      ]
+    },
+    {
+      "name": "re2js",
+      "version": "2.8.6",
+      "path": "node_modules/re2js",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "b80a94f2c3c0b8bd6af849511cef624ad9feecbc0151d08bacad86ebab4cb46e"
+        }
+      ]
+    },
+    {
+      "name": "react",
+      "version": "18.3.1",
+      "path": "node_modules/react",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85"
+        }
+      ]
+    },
+    {
+      "name": "react-dom",
+      "version": "18.3.1",
+      "path": "node_modules/react-dom",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85"
+        }
+      ]
+    },
+    {
+      "name": "react-hook-form",
+      "version": "7.88.0",
+      "path": "node_modules/react-hook-form",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "e8eeb472f0a5889c2c51625b86a3f9b8630680adb9f49a125352e2e426392780"
+        }
+      ]
+    },
+    {
+      "name": "react-is",
+      "version": "18.3.1",
+      "path": "node_modules/react-is",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85"
+        }
+      ]
+    },
+    {
+      "name": "react-remove-scroll",
+      "version": "2.7.2",
+      "path": "node_modules/react-remove-scroll",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "30f0cfddf483d1128e3610205020f2041a6c5e837aa999e0aa82e5576187d4a9"
+        }
+      ]
+    },
+    {
+      "name": "react-remove-scroll-bar",
+      "version": "2.3.8",
+      "path": "node_modules/react-remove-scroll-bar",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "react-smooth",
+      "version": "4.0.4",
+      "path": "node_modules/react-smooth",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "258fe95d585e52a42eb5bec05b103a78400532103c4d01f94bc4cfca59486540"
+        }
+      ]
+    },
+    {
+      "name": "react-style-singleton",
+      "version": "2.2.3",
+      "path": "node_modules/react-style-singleton",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "30f0cfddf483d1128e3610205020f2041a6c5e837aa999e0aa82e5576187d4a9"
+        }
+      ]
+    },
+    {
+      "name": "react-transition-group",
+      "version": "4.4.5",
+      "path": "node_modules/react-transition-group",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "b9adc17ad75a847d8743be2843935f0842a0ea4f45e7b0c7e17ed0be98614b9b"
+        }
+      ]
+    },
+    {
+      "name": "readable-stream",
+      "version": "3.6.2",
+      "path": "node_modules/readable-stream",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "ec62dc96da0099b87f4511736c87309335527fb7031639493e06c95728dc8c54"
+        }
+      ]
+    },
+    {
+      "name": "readdir-glob",
+      "version": "1.1.3",
+      "path": "node_modules/readdir-glob",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "8cd23e2d76d2791765f7dd1025a9df99d81db91da9e2701f283987a1c0435aa3"
+        }
+      ]
+    },
+    {
+      "name": "brace-expansion",
+      "version": "2.1.7",
+      "path": "node_modules/readdir-glob/node_modules/brace-expansion",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "68f12f6e2c33688699249c01d8f9623c534da20aa71989c57b061b7bc1676d14"
+        }
+      ]
+    },
+    {
+      "name": "minimatch",
+      "version": "5.1.9",
+      "path": "node_modules/readdir-glob/node_modules/minimatch",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "d11323827fa4edeaafc437cc5b91b6971b335f0127efeeb42bf5122fe8657e8f"
+        }
+      ]
+    },
+    {
+      "name": "recharts",
+      "version": "2.15.4",
+      "path": "node_modules/recharts",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2d3aa48a8d1d3b93093680e8e68d3a64cfb590c3ade377ffcaefc69dac7c2ce5"
+        }
+      ]
+    },
+    {
+      "name": "recharts-scale",
+      "version": "0.4.5",
+      "path": "node_modules/recharts-scale",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "9b0d4666d301c53eb4be4e2fec89e5589a7e5da450026153c27e34c2b3115921"
+        }
+      ]
+    },
+    {
+      "name": "require-directory",
+      "version": "2.1.1",
+      "path": "node_modules/require-directory",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a92e52eb1fa7cd746e3827bf01d3a3589bbc8e1e51348b1da042aad165525ad1"
+        }
+      ]
+    },
+    {
+      "name": "retry",
+      "version": "0.13.1",
+      "path": "node_modules/retry",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "License",
+          "sha256": "01ad164273e8e095abc9dbd1c21e194594a671af7d528cb43ee7b4c903ba7da3"
+        }
+      ]
+    },
+    {
+      "name": "retry-request",
+      "version": "9.0.1",
+      "path": "node_modules/retry-request",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "e0845fe275271e0b752360e09e5774b1b05d5e1c73bbbc3d4bf8b57d8af98217"
+        }
+      ]
+    },
+    {
+      "name": "safe-buffer",
+      "version": "5.2.1",
+      "path": "node_modules/safe-buffer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c7cc929b57080f4b9d0c6cf57669f0463fc5b39906344dfc8d3bc43426b30eac"
+        }
+      ]
+    },
+    {
+      "name": "saxes",
+      "version": "5.0.1",
+      "path": "node_modules/saxes",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "scheduler",
+      "version": "0.23.2",
+      "path": "node_modules/scheduler",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85"
+        }
+      ]
+    },
+    {
+      "name": "semver",
+      "version": "7.8.5",
+      "path": "node_modules/semver",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b"
+        }
+      ]
+    },
+    {
+      "name": "setimmediate",
+      "version": "1.0.5",
+      "path": "node_modules/setimmediate",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "c4b4ad3a5746f1f5249a6dd90396ec519264e1bb02e01e48a6522c48a3a97cb4"
+        }
+      ]
+    },
+    {
+      "name": "sharp",
+      "version": "0.35.4",
+      "path": "node_modules/sharp",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "73ba74dfaa520b49a401b5d21459a8523a146f3b7518a833eea5efa85130bf68"
+        }
+      ]
+    },
+    {
+      "name": "shebang-command",
+      "version": "2.0.0",
+      "path": "node_modules/shebang-command",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "69dee148a2cc470554dfa7142e830662062394d0fe67cddd379aba90dc60d6b3"
+        }
+      ]
+    },
+    {
+      "name": "shebang-regex",
+      "version": "3.0.0",
+      "path": "node_modules/shebang-regex",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+        }
+      ]
+    },
+    {
+      "name": "signal-exit",
+      "version": "4.1.0",
+      "path": "node_modules/signal-exit",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "b173e19b9a78df305577ace0e52ef45a4bcc915ea28b47b256dc3b68dcb1f7e7"
+        }
+      ]
+    },
+    {
+      "name": "sonner",
+      "version": "1.7.4",
+      "path": "node_modules/sonner",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "da9201378c36ffd81f51ad0b305f3f0981e90bc558789210ad65d1161eec3b7d"
+        }
+      ]
+    },
+    {
+      "name": "source-map-js",
+      "version": "1.2.2",
+      "path": "node_modules/source-map-js",
+      "declared": "BSD-3-Clause",
+      "reviewed": "BSD-3-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "6cb0631f71c7749763fd3dd1d5bee52dd1070ec17f2edc1710079ad070bd2fbd"
+        }
+      ]
+    },
+    {
+      "name": "stream-events",
+      "version": "1.0.5",
+      "path": "node_modules/stream-events",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "stream-shift",
+      "version": "1.0.3",
+      "path": "node_modules/stream-shift",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "6a134e51aa31496c15a741592fc5d782b2dbf8d8b6b8524e15c8520ae0cd6374"
+        }
+      ]
+    },
+    {
+      "name": "string_decoder",
+      "version": "1.3.0",
+      "path": "node_modules/string_decoder",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "11f2aafb37d06b3ee5bdaf06e9811141d0da05263c316f3d627f45c20d43261b"
+        }
+      ]
+    },
+    {
+      "name": "string-width",
+      "version": "5.1.2",
+      "path": "node_modules/string-width",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "string-width",
+      "version": "4.2.3",
+      "path": "node_modules/string-width-cjs",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+        }
+      ]
+    },
+    {
+      "name": "emoji-regex",
+      "version": "8.0.0",
+      "path": "node_modules/string-width-cjs/node_modules/emoji-regex",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE-MIT.txt",
+          "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a"
+        }
+      ]
+    },
+    {
+      "name": "ansi-regex",
+      "version": "6.3.0",
+      "path": "node_modules/string-width/node_modules/ansi-regex",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "strip-ansi",
+      "version": "7.2.0",
+      "path": "node_modules/string-width/node_modules/strip-ansi",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "strip-ansi",
+      "version": "6.0.1",
+      "path": "node_modules/strip-ansi",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+        }
+      ]
+    },
+    {
+      "name": "strip-ansi",
+      "version": "6.0.1",
+      "path": "node_modules/strip-ansi-cjs",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+        }
+      ]
+    },
+    {
+      "name": "strnum",
+      "version": "2.4.2",
+      "path": "node_modules/strnum",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2aa16be0f4fad003a352a955a43314e9d1d8deef7034060a82ac9c49f32b81e2"
+        }
+      ]
+    },
+    {
+      "name": "stubs",
+      "version": "3.0.0",
+      "path": "node_modules/stubs",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "styled-jsx",
+      "version": "5.1.6",
+      "path": "node_modules/styled-jsx",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license.md",
+          "sha256": "24d4a4580df855c345705b3016404f0c9da7e7674dc3b21a3ce7d0e5d0c37e2d"
+        }
+      ]
+    },
+    {
+      "name": "tailwind-merge",
+      "version": "2.6.1",
+      "path": "node_modules/tailwind-merge",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "d4c70c7ce38cea8778f0aed3fc0bef0a9dbd27f13bd8b6773cbd6d37941971e5"
+        }
+      ]
+    },
+    {
+      "name": "teeny-request",
+      "version": "11.0.1",
+      "path": "node_modules/teeny-request",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        }
+      ]
+    },
+    {
+      "name": "data-uri-to-buffer",
+      "version": "4.0.1",
+      "path": "node_modules/teeny-request/node_modules/data-uri-to-buffer",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "node-fetch",
+      "version": "3.3.2",
+      "path": "node_modules/teeny-request/node_modules/node-fetch",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "3e2c11dcf3f17ab585baab8faba54772d7872f1c6e026022acd4b4006665efb0"
+        }
+      ]
+    },
+    {
+      "name": "tiny-invariant",
+      "version": "1.3.3",
+      "path": "node_modules/tiny-invariant",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "b1c501095de70182748cb8e8d97ac5577701a4ef3b755ba30d59fd87b24bdb0f"
+        }
+      ]
+    },
+    {
+      "name": "tmp",
+      "version": "0.2.7",
+      "path": "node_modules/tmp",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "162413c61e0982abe89a06bf7a02ec760dc49a7364d838bd9f01daebb5b95954"
+        }
+      ]
+    },
+    {
+      "name": "tr46",
+      "version": "0.0.3",
+      "path": "node_modules/tr46",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "tslib",
+      "version": "2.8.1",
+      "path": "node_modules/tslib",
+      "declared": "0BSD",
+      "reviewed": "0BSD",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "210b19e543130388c68654b7497e967119ce17145f66ab7d85688fbd70f08751"
+        }
+      ]
+    },
+    {
+      "name": "type-fest",
+      "version": "2.19.0",
+      "path": "node_modules/type-fest",
+      "declared": "(MIT OR CC0-1.0)",
+      "reviewed": "(MIT OR CC0-1.0)",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "typescript",
+      "version": "5.9.3",
+      "path": "node_modules/typescript",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "a7d00bfd54525bc694b6e32f64c7ebcf5e6b7ae3657be5cc12767bce74654a47"
+        }
+      ]
+    },
+    {
+      "name": "undici-types",
+      "version": "6.21.0",
+      "path": "node_modules/undici-types",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "a6db8096b2707bc0102d256917d4d33f298ba36d8c3f25de067a2b5bb379db27"
+        }
+      ]
+    },
+    {
+      "name": "universalify",
+      "version": "2.0.1",
+      "path": "node_modules/universalify",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "3fda5977c0904e226190b4e21d64340c1731e2142d6fe5f3dee0090a216b8b63"
+        }
+      ]
+    },
+    {
+      "name": "unzipper",
+      "version": "0.12.5",
+      "path": "node_modules/unzipper",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "b9e9abeaf8b92573dc28915d4948dbce30d55b30c688d109898b35e6105c4215"
+        }
+      ]
+    },
+    {
+      "name": "fs-extra",
+      "version": "11.3.1",
+      "path": "node_modules/unzipper/node_modules/fs-extra",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "c6a7de1428955aa5a692f4d3a3d3ede658d959616944713337cda296736442e1"
+        }
+      ]
+    },
+    {
+      "name": "use-callback-ref",
+      "version": "1.3.3",
+      "path": "node_modules/use-callback-ref",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "30f0cfddf483d1128e3610205020f2041a6c5e837aa999e0aa82e5576187d4a9"
+        }
+      ]
+    },
+    {
+      "name": "use-sidecar",
+      "version": "1.1.3",
+      "path": "node_modules/use-sidecar",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "30f0cfddf483d1128e3610205020f2041a6c5e837aa999e0aa82e5576187d4a9"
+        }
+      ]
+    },
+    {
+      "name": "util-deprecate",
+      "version": "1.0.2",
+      "path": "node_modules/util-deprecate",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "0154425673db15cdfa80ecba2c9b1f1a867f7197a006764712849bfc3a93cbb7"
+        }
+      ]
+    },
+    {
+      "name": "uuid",
+      "version": "11.1.1",
+      "path": "node_modules/uuid",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "beaa6b04fb82e41dd2ad679e19e27953afb5999b1abbb455b6564e78ebfeb332"
+        }
+      ]
+    },
+    {
+      "name": "victory-vendor",
+      "version": "36.9.2",
+      "path": "node_modules/victory-vendor",
+      "declared": "MIT AND ISC",
+      "reviewed": "MIT AND ISC",
+      "observation": "arquivo não instalado/localizado nesta plataforma",
+      "files": []
+    },
+    {
+      "name": "web-streams-polyfill",
+      "version": "3.3.3",
+      "path": "node_modules/web-streams-polyfill",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "81008a3fb78f69f3c4a72a9e005c8582342ab62864371b3ab8e1b6af9041e080"
+        }
+      ]
+    },
+    {
+      "name": "web-vitals",
+      "version": "4.2.4",
+      "path": "node_modules/web-vitals",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "bfdeded4040e05da31ca9b6239dc83bd23fa26ac8db87342a7ca4363f68916ff"
+        }
+      ]
+    },
+    {
+      "name": "webidl-conversions",
+      "version": "3.0.1",
+      "path": "node_modules/webidl-conversions",
+      "declared": "BSD-2-Clause",
+      "reviewed": "BSD-2-Clause",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "a889cc4dbee2ae172c179856b25d75b0b7a5a136e1b97109b9b590b2ff1a879c"
+        }
+      ]
+    },
+    {
+      "name": "websocket-driver",
+      "version": "0.7.5",
+      "path": "node_modules/websocket-driver",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "2fbd9092e779d0195cfcada9471d1208c152a6ae183786975b6b59966e9f5e8d"
+        }
+      ]
+    },
+    {
+      "name": "websocket-extensions",
+      "version": "0.1.4",
+      "path": "node_modules/websocket-extensions",
+      "declared": "Apache-2.0",
+      "reviewed": "Apache-2.0",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.md",
+          "sha256": "218ce71e2fb8d13d7fdca2016b02ecbcb02f757914304104e03fbf4066c1685f"
+        }
+      ]
+    },
+    {
+      "name": "whatwg-url",
+      "version": "5.0.0",
+      "path": "node_modules/whatwg-url",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "6b7a1792144374d84dc5ed3655b8bbe2754d06f4f1f64a9fb8b9de2d6f448b85"
+        }
+      ]
+    },
+    {
+      "name": "which",
+      "version": "2.0.2",
+      "path": "node_modules/which",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b"
+        }
+      ]
+    },
+    {
+      "name": "wrap-ansi",
+      "version": "8.1.0",
+      "path": "node_modules/wrap-ansi",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "wrap-ansi",
+      "version": "7.0.0",
+      "path": "node_modules/wrap-ansi-cjs",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "emoji-regex",
+      "version": "8.0.0",
+      "path": "node_modules/wrap-ansi-cjs/node_modules/emoji-regex",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE-MIT.txt",
+          "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a"
+        }
+      ]
+    },
+    {
+      "name": "string-width",
+      "version": "4.2.3",
+      "path": "node_modules/wrap-ansi-cjs/node_modules/string-width",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+        }
+      ]
+    },
+    {
+      "name": "ansi-regex",
+      "version": "6.3.0",
+      "path": "node_modules/wrap-ansi/node_modules/ansi-regex",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "ansi-styles",
+      "version": "6.2.3",
+      "path": "node_modules/wrap-ansi/node_modules/ansi-styles",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "strip-ansi",
+      "version": "7.2.0",
+      "path": "node_modules/wrap-ansi/node_modules/strip-ansi",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "wrappy",
+      "version": "1.0.2",
+      "path": "node_modules/wrappy",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b"
+        }
+      ]
+    },
+    {
+      "name": "xml-naming",
+      "version": "0.3.0",
+      "path": "node_modules/xml-naming",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "8e75fc0e776c62ccadb8178ece8d3daa9ba7601fb0a49b2dfb0ea9a7a5c0aa07"
+        }
+      ]
+    },
+    {
+      "name": "xmlchars",
+      "version": "2.2.0",
+      "path": "node_modules/xmlchars",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "45d196313c2647d313cc65ca9b093d2d6974b64d35ee7346f2c60c9d518dff2c"
+        }
+      ]
+    },
+    {
+      "name": "y18n",
+      "version": "5.0.8",
+      "path": "node_modules/y18n",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2034cce3b6fafcddd642c4175e01d3ddfc332a53b9f20fdc46b1466dc89ac469"
+        }
+      ]
+    },
+    {
+      "name": "yargs",
+      "version": "17.7.3",
+      "path": "node_modules/yargs",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "2f1a503bfab84b3ba7393627308b3274501e459e3b5185bbb56bbf16cb1602d4"
+        }
+      ]
+    },
+    {
+      "name": "yargs-parser",
+      "version": "21.1.1",
+      "path": "node_modules/yargs-parser",
+      "declared": "ISC",
+      "reviewed": "ISC",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE.txt",
+          "sha256": "365496ca1f56da40b23c9815fc40fa9005847b2f8f8fd1c1a4929ef25ec8cd1d"
+        }
+      ]
+    },
+    {
+      "name": "emoji-regex",
+      "version": "8.0.0",
+      "path": "node_modules/yargs/node_modules/emoji-regex",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE-MIT.txt",
+          "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a"
+        }
+      ]
+    },
+    {
+      "name": "string-width",
+      "version": "4.2.3",
+      "path": "node_modules/yargs/node_modules/string-width",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+        }
+      ]
+    },
+    {
+      "name": "yocto-queue",
+      "version": "0.1.0",
+      "path": "node_modules/yocto-queue",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+        }
+      ]
+    },
+    {
+      "name": "zod",
+      "version": "3.25.76",
+      "path": "node_modules/zod",
+      "declared": "MIT",
+      "reviewed": "MIT",
+      "observation": "arquivo local identificado; revisão humana necessária",
+      "files": [
+        {
+          "file": "LICENSE",
+          "sha256": "3f1189b28e3866e0d979968d466b78f813f76827cfdca1fbb124cc0a5c8841f8"
+        }
+      ]
+    }
+  ]
+}

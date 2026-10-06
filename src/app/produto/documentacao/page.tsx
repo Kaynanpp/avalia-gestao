@@ -1,0 +1,10 @@
+import Link from 'next/link';
+import guides from '@/content/public-guides.json';
+import { PRODUCT, productPublication } from '@/lib/product';
+export function generateMetadata() {
+  const { siteUrl } = productPublication();
+  return { title: 'Documentação', description: 'Guias públicos de instalação, configuração, primeiros passos, atualização e recuperação do Avalia Gestão.', ...(siteUrl ? { alternates: { canonical: `${siteUrl}/produto/documentacao` } } : {}) };
+}
+export default function DocumentationPage() {
+  return <div className="mx-auto max-w-6xl px-5 py-14 sm:px-8"><p className="text-xs font-semibold uppercase tracking-wider text-orange-800 dark:text-orange-300">Guias públicos</p><h1 className="mt-3 text-4xl font-semibold tracking-tight">Instale, configure e opere com clareza.</h1><p className="mt-5 max-w-3xl leading-7 text-slate-600 dark:text-slate-300">Requisitos e responsabilidades da instalação dedicada. A distribuição pública aguarda o fechamento da licença e da checklist de release.</p><div className="mt-9 grid gap-5 md:grid-cols-2">{guides.map((guide) => <Link key={guide.slug} href={`${PRODUCT.paths.docs}/${guide.slug}`} className="rounded-xl border border-slate-200 bg-white p-6 transition hover:border-orange-700 dark:border-slate-800 dark:bg-slate-900 dark:hover:border-orange-400"><h2 className="text-lg font-semibold">{guide.title}</h2><p className="mt-3 text-sm leading-7 text-slate-600 dark:text-slate-300">{guide.summary}</p><span className="mt-5 inline-block text-sm font-semibold text-orange-800 dark:text-orange-300">Ler guia →</span></Link>)}</div><section className="mt-10 border-t border-slate-200 pt-7 dark:border-slate-800"><h2 className="text-xl font-semibold">Dúvidas frequentes</h2><p className="mt-3 text-sm leading-7 text-slate-600 dark:text-slate-300">Veja as <Link className="font-semibold underline" href="/produto#faq">perguntas sobre participação, dados e edições</Link>. Operações privadas e credenciais não fazem parte desta documentação pública.</p></section></div>;
+}

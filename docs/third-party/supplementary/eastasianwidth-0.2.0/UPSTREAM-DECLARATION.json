@@ -1,0 +1,10 @@
+{
+  "scope": "Original upstream public fields; no inferred copyright owner or year",
+  "name": "eastasianwidth",
+  "version": "0.2.0",
+  "license": "MIT",
+  "author": "Masaki Komagata",
+  "repository": "git://github.com/komagata/eastasianwidth.git",
+  "integrity": "sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==",
+  "standardLicenseReference": "../../MIT-standard-reference.txt"
+}

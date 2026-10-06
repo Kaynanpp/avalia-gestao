@@ -1,0 +1,13 @@
+{
+  "scope": "Original upstream public fields; no inferred copyright owner or year",
+  "name": "stubs",
+  "version": "3.0.0",
+  "license": "MIT",
+  "author": "Stephen Sawchuk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenplusplus/stubs"
+  },
+  "integrity": "sha512-PdHt7hHUJKxvTCgbKX9C1V/ftOcjJQgz8BZwNfV5c4B6dcGqlpelTbJ999jBGZ2jYiPAwcX5dP6oBwVlBlUbxw==",
+  "standardLicenseReference": "../../MIT-standard-reference.txt"
+}
