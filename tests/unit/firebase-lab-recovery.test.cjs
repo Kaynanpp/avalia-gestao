@@ -23,10 +23,18 @@ test('Auth imports refuse duplicate UID, missing password hash and unsupported M
   assert.throws(() => importRecords([{ uid: 'a', multiFactor: { enrolledFactors: [{}] } }]));
 });
 test('cloud lab refuses nonempty target before any writes', async () => {
+  // This mocked cloud test must not inherit the CI's emulator configuration.
+  const keys = ['FIRESTORE_EMULATOR_HOST', 'FIREBASE_AUTH_EMULATOR_HOST', 'NEXT_PUBLIC_USE_FIREBASE_EMULATOR'];
+  const saved = keys.map((key) => process.env[key]);
+  for (const key of keys) delete process.env[key];
+  try {
   const documents = [], users = [{ uid: 'synthetic' }], payload = { version: 1, projectId: sourceProjectId, documents, users, documentDigest: digest(documents), userDigest: digest(users) };
   let writes = 0;
   const db = { projectId: destinationProjectId, listCollections: async () => ['existing'], batch: () => { writes++; } };
   const auth = { app: { options: { projectId: destinationProjectId } }, listUsers: async () => ({ users: [] }), importUsers: async () => { writes++; } };
   await assert.rejects(() => restoreLab({ config, sourceCredential, destinationCredential, db, auth, payload, hashConfig: { algorithm: 'SCRYPT', signerKey: 'c3ludGhldGlj', rounds: 8, memoryCost: 14 } }), /vazio/);
   assert.equal(writes, 0);
+  } finally {
+    keys.forEach((key, index) => { if (saved[index] === undefined) delete process.env[key]; else process.env[key] = saved[index]; });
+  }
 });

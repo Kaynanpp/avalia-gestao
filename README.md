@@ -1,6 +1,6 @@
 # Avalia Gestão
 
-Avaliações de lideranças e colegas por setor, com participação única por ciclo, resultados protegidos e acompanhamento pelo RH. **Avalia Gestão Community v1.0.0-rc.2**. Candidato de fontes licenciado e preparado localmente; ainda não publicado.
+Avaliações de lideranças e colegas por setor, com participação única por ciclo, resultados protegidos e acompanhamento pelo RH. **Avalia Gestão Community v1.0.0-rc.2**. Código-fonte público em [Kaynanpp/avalia-gestao](https://github.com/Kaynanpp/avalia-gestao). Release Candidate: não é uma versão final.
 
 ![Site com dados fictícios](docs/screenshots/product-desktop.jpg)
 
