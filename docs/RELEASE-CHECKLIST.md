@@ -1,3 +1,5 @@
+> Registro histórico da preparação anterior à publicação. Consulte [a publicação no GitHub](GITHUB-PUBLICATION.md) para o estado posterior.
+
 # Release gates — decisões do proprietário, 06/10/2026
 
 Continuação do fechamento técnico 47c1c62. Esta tabela substitui as pendências humanas anteriores. Nenhum push, release remoto, publicação Docker, backup real ou deploy nesta execução.

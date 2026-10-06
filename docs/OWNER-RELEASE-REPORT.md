@@ -1,3 +1,5 @@
+> Registro histórico da preparação anterior à publicação. Consulte [a publicação no GitHub](GITHUB-PUBLICATION.md) para o estado posterior.
+
 # Decisões do proprietário — Community v1.0.0-rc.2
 
 Data: 06/10/2026. Continuação de 47c1c62, sem nova auditoria geral, funcionalidades, Cloud ou refatorações. Candidato local; nada publicado externamente.
